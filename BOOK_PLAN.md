@@ -96,6 +96,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 9 | 2026-07-08 | Entry 7: Aurora Islands (multiple-witness problem; Atrevida survey 1794; Weddell; Poe coda; folder tied w/ string marked "practice") | ~12,400 |
 | 10 | 2026-07-08 | Entry 8: Buss Island (the drowned phantom; "errors are networks"; maintenance contract; HBC docket "not for stations" echoes Grimsholm) | ~13,700 |
 | 11 | 2026-07-08 | Entry 9: Dougherty & Emerald diptych (errors of need; Davis's 4,240 m CONTROL against the depth band; "currency"/"then what is the bank") | ~15,100 |
+| 12 | 2026-07-08 | Entry 10: Sarah Ann (guano-act deed; 1937 eclipse audit; "every phantom dies of an appointment" = unnumbered 4th law; doctored clipping fn 22) | ~16,400 |
 
 ## Continuity notes (check each session)
 
@@ -165,7 +166,16 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 - **"Then what is the bank"** — Voss margin note (Emerald, fn 20), no question
   mark. Currency/bank/deposit metaphor now: stowed, deposit, maintenance
   contract, currency, bank. The bank = Meridian? Part IV payoff.
-- Footnotes: ...Buss 17–18; Dougherty/Emerald 19–20; next starts 21.
+- Footnotes: ...Buss 17–18; Dougherty/Emerald 19–20; Sarah Ann 21–22; next 23.
+- **"Every phantom dies of an appointment"** (Sarah Ann) — unnumbered 4th law;
+  fn 21 promises Part III polar entries = places given appointments that KEPT
+  them. Structural setup for Part III.
+- **Doctored clipping** (fn 22): Voss's 1937 clipping adds "...sail under
+  sealed orders" — sentence not in the printed original, typeset identically.
+  Marsh now: "The archives are not where the discrepancy lives." Escalation
+  ladder: can't find sources (Grimsholm) → sources altered upstream (Buss
+  docket) → Voss's own copies diverge from verified originals (this). NEXT
+  step (Part III/IV): documents change AFTER Marsh has verified them.
 - Entry 9 closing teases the audit: entry 10 = annexed sight unseen (Sarah
   Ann); entry 11 = "an island I can no longer discuss in footnotes" (the
   second invented one, silent-footnote gambit); entry 12 = Voss interlude.
