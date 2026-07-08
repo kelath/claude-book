@@ -104,13 +104,15 @@ thing the tools of its trade have ever done: taking a sounding.
 Carry the bottom up honestly to the thumb. It is all any
 instrument was ever asked.
 
-The appendices follow. They are four. The catalogue of the
+The appendices follow. They are five. The catalogue of the
 Bergen folders; the passage from notebook IV that I promised at
 the Mountains of Kong and defy the reader to finish comfortably;
 a short gazetteer of phantoms for which Voss's index made no room;
-and a last item, which is not Voss's, and not properly an
-appendix, and which the reader of the preface was promised on the
-first pages of this book, in a sentence I set down when this
+the eleven letters of the T. correspondence that passed through
+the public post, which I print on the principle that what the
+mails have carried the reader may carry; and a last item, which
+is not Voss's, and not properly an appendix, and which the reader
+of the preface was promised on the first pages of this book, in a sentence I set down when this
 edition still felt to me like scholarship, and have not had the
 courage to reread until tonight: that one thing
 had been added, and it was mine, and judgement should be withheld
