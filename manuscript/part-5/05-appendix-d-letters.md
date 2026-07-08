@@ -47,6 +47,14 @@ for us. Decline nothing he offers; he offers nothing; he is
 looking for the door he closed and cannot find it in other
 people's houses, though he will buy the houses all his life. — T.
 
+*[A correction is owed here. In my note from the Bergen train I
+counted the Vienna voice among the appearances of the upright hand
+— three meetings, I wrote. I withdraw the count. The hands are
+two: the one that keeps the registers, and the one that asked
+about staffing, which No. 24 identifies, and which I have since
+sat across a map room from. I record the error because it is the
+only one I have caught myself making from hope. — E.M.]*
+
 **No. 28. Galway, August 1991.**
 
 Dress warmly. The showing is long this cycle. The boatman is not
