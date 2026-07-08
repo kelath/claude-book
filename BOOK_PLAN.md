@@ -77,6 +77,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 1 | 2026-07-08 | Plan, front matter, Editor's Preface | ~2,600 |
 | 2 | 2026-07-08 | Part I title page + Entry 1: Hy-Brasil ("type specimen"; plants First Law, Meridian in brown ink, Marsh's "condition" footnote) | ~4,100 |
 | 3 | 2026-07-08 | Entry 2: Sandy Island (2012 undiscovery; ship's-log fragment; Second Law; "stowed" note + seen/sounded list, avg 1,240 m) | ~5,500 |
+| 4 | 2026-07-08 | Entry 3: Saint Brendan's Isle (Jasconius; migratory phantom; Third Law; circle-divided-by-line sign; "displacement is the signature") | ~7,000 |
 
 ## Continuity notes (check each session)
 
@@ -90,17 +91,26 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   Hy-Brasil 3–4; Sandy Island 5–6; next entry starts at 7).
 - **Second law** (Sandy Island): "An error is an honest observation that has
   outlived its weather."
+- **Third law** (Brendan): "Stationary phantoms die by sounding. Migratory
+  phantoms do not die."
 - Voss's "seen/sounded" list averages 1,240 m over vanished islands; "stowed";
   cross-ref promises Bermeja is entry No. 4.
-- CSIRO archive went silent on Marsh — institutions going quiet is a motif.
+- CSIRO archive went silent on Marsh; La Palma archive folio 114v "withdrawn
+  for conservation" 2023–25 — institutions going quiet is a motif.
+- **The sign:** small circle divided by a line (= Dulcert's Brasil shape),
+  found as marginal drawing in 1570 La Palma file. Voss asked T. "whether the
+  sign travels with the copyists or with the island." Recur sparingly.
+- **"The displacement is the signature"** — Voss's load-bearing phrase; recurs
+  on an index card with the Bermeja materials, underlined three times.
+- Footnotes: preface 1–2; Hy-Brasil 3–4; Sandy 5–6; Brendan 7–8; next starts 9.
 
 ## Next up
 
-- Entry 3: "Saint Brendan's Isle" (medieval; the island that moves; monks hold
-  Mass on a whale's back — myth vs. chart persistence).
 - Entry 4: "Bermeja" (Gulf of Mexico; vanished island with oil-rights stakes;
-  conspiracy theories; must pay off the "stowed" footnote — sounded depth
-  should sit near the 1,240 m average, unnervingly).
+  2009 UNAM survey; conspiracy theories incl. CIA-removal jokes Voss dismisses;
+  MUST pay off "stowed": sounded depth near the 1,240 m average, and the
+  index card with "the displacement is the signature" ×3 underlined).
 - Entry 5: first invented island — "Tethys Shoal" or similar, disguised among
-  real ones; Marsh's footnote should fail to find any external source for it
-  and note this uneasily.
+  real ones; Marsh's footnote fails to find any external source and says so
+  uneasily.
+- Consider a revision session at session ~7 per working principles.
