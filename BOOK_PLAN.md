@@ -114,6 +114,14 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 26 | 2026-07-08 | PART III opens. Entry 21: Terra Australis (secreted by SYMMETRY — the planet weighed; the 南 mortgage; Quirós first casualty; Cook's clean cancellation; 1820 promise KEPT — "the passenger was the same passenger"; fn 39 notebook X = brown ink AFTER 1980, ink-gap thread activated; fn 40 retires "load-bearing" in-world) | 26,766 measured (93pp) |
 | 27 | 2026-07-08 | Entries 22+23 (DUAL). 22 Open Polar Sea — SONNET-DRAFTED PILOT, Fable-briefed+edited (1 fix); theory early-not-wrong, ice minima, "My appointment is earlier," Dutch Harbor bearing = 1,230 m. 23 Frisland (Fable): forged geography; Frobisher annexes Greenland as "West England"; Sorand & Rane unlocatable; MILANESE #3 "Frislanda (sommersa)" 1,238 m at Rane; Marsh writes to Braidense — answer promised in next interstitial | 29,921 measured (104pp) |
 
+| 28 | 2026-07-08 | INTERLEAVED: MILAN (set-piece, Fable). Braidense reply: house of SALTERIO; 3 northern plates "ceduti" to unnamed buyer; balance mark as engraver's device; register shows I. Voss 1969 AND "T. SALTER" March 2019. RED HERRING LIVE: fabrication thesis stated in full, Marsh believes 3 days, killed by arithmetic (T. Salter line, pre-catalogue offer, pre-survey bathymetry). VILLAIN NAMED: Halter & Cie, Basel; 4th offer; "the client would wish you kept also." Marsh going to Bergen; unit paid through 2031 from Basel. FIXED: preface 42/41→34/33 (structure: I:12+II:8+III:6+IV:7+Meridian missing=34) | 31,199 measured (109pp) |
+
+## ENTRY-COUNT CANON (REVISED session 28): index=34, printed=33.
+Parts: I=12, II=8, III=6 (21 TA, 22 OPS, 23 Frisland, 24 Rupes Nigra,
+25 Vardø-9 invented station, 26 interlude "On Appointments"), IV=7 of
+which Meridian is the missing one (so IV prints 6 + appendices).
+Interstitials are Marsh's, unnumbered, don't count.
+
 ## SUBAGENT PIPELINE (est. session 27; per Bob)
 
 Fable plans/briefs/edits; Sonnet drafts. Pilot verdict: strong voice hit
