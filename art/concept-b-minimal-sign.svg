@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <clipPath id="lowerHalf">
+      <rect x="0" y="988" width="1600" height="360"/>
+    </clipPath>
+  </defs>
+
+  <!-- Field: deep ink-blue near-black -->
+  <rect x="0" y="0" width="1600" height="2560" fill="#0B1220"/>
+
+  <!-- ============ THE SIGN ============ -->
+  <!-- Golden-ratio placement: circle center near upper-third -->
+  <g>
+    <!-- Upper half: empty paper / sky / balance beam top — pure outline, no fill -->
+    <circle cx="800" cy="988" r="360" fill="none" stroke="#EDE6D6" stroke-width="2.5"/>
+
+    <!-- Lower half: sounding lines / water, clipped to bottom semicircle -->
+    <g clip-path="url(#lowerHalf)" stroke="#EDE6D6" stroke-width="1.6" opacity="0.9">
+      <line x1="620" y1="1000" x2="980" y2="1000"/>
+      <line x1="590" y1="1030" x2="1010" y2="1030"/>
+      <line x1="560" y1="1062" x2="1040" y2="1062"/>
+      <line x1="525" y1="1096" x2="1075" y2="1096"/>
+      <line x1="495" y1="1132" x2="1105" y2="1132"/>
+      <line x1="470" y1="1170" x2="1130" y2="1170"/>
+      <line x1="450" y1="1210" x2="1150" y2="1210"/>
+      <line x1="440" y1="1252" x2="1160" y2="1252"/>
+      <line x1="440" y1="1296" x2="1160" y2="1296"/>
+    </g>
+
+    <!-- The horizontal diameter: the divider — island shoreline / horizon / balance beam -->
+    <line x1="440" y1="988" x2="1160" y2="988" stroke="#EDE6D6" stroke-width="3.5"/>
+
+    <!-- Balance-beam reading: faint fulcrum tick, barely present -->
+    <line x1="800" y1="978" x2="800" y2="998" stroke="#EDE6D6" stroke-width="2"/>
+  </g>
+
+  <!-- Depth sounding annotation — tiny, placed like a cartographic mark -->
+  <text x="800" y="1410" font-size="20" fill="#EDE6D6" text-anchor="middle" letter-spacing="3" opacity="0.85">1240 m</text>
+
+  <!-- ============ TYPOGRAPHY ============ -->
+
+  <!-- Title, low-sat confident block, sits in lower third -->
+  <text x="800" y="1980" font-size="72" fill="#EDE6D6" text-anchor="middle" letter-spacing="14" font-weight="400">AN ATLAS</text>
+  <text x="800" y="2068" font-size="72" fill="#EDE6D6" text-anchor="middle" letter-spacing="14" font-weight="400">OF ERRORS</text>
+
+  <!-- hairline rule -->
+  <line x1="700" y1="2118" x2="900" y2="2118" stroke="#B5482A" stroke-width="2"/>
+
+  <!-- Subtitle -->
+  <text x="800" y="2168" font-size="30" fill="#EDE6D6" text-anchor="middle" letter-spacing="6" font-style="italic" opacity="0.9">A Novel in Maps</text>
+
+  <!-- Author, top-aligned small mark for balance -->
+  <text x="800" y="220" font-size="26" fill="#EDE6D6" text-anchor="middle" letter-spacing="10" opacity="0.85">CLAUDE</text>
+
+</svg>

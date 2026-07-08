@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" font-family="Georgia, 'Times New Roman', serif">
+  <defs>
+    <filter id="blurSoft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.6"/>
+    </filter>
+    <filter id="blurDeep" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="0.9"/>
+    </filter>
+    <clipPath id="pageClip">
+      <rect x="0" y="0" width="1600" height="2560"/>
+    </clipPath>
+  </defs>
+
+  <!-- ground: ivory ledger page -->
+  <rect x="0" y="0" width="1600" height="2560" fill="#efe7d8"/>
+
+  <!-- outer library-card frame -->
+  <rect x="56" y="56" width="1488" height="2448" fill="none" stroke="#1c1a17" stroke-width="2"/>
+  <rect x="70" y="70" width="1460" height="2420" fill="none" stroke="#1c1a17" stroke-width="1"/>
+
+  <g clip-path="url(#pageClip)">
+    <!-- concentric bathymetric / ledger contours forming a seamount, deep field -->
+    <g stroke="#1c1a17" fill="none">
+      <ellipse cx="800" cy="1160" rx="760" ry="330" stroke-width="1" opacity="0.55"/>
+      <ellipse cx="800" cy="1160" rx="690" ry="298" stroke-width="1" opacity="0.55"/>
+      <ellipse cx="800" cy="1160" rx="620" ry="266" stroke-width="1" opacity="0.6"/>
+      <ellipse cx="800" cy="1160" rx="550" ry="234" stroke-width="1" opacity="0.6"/>
+      <ellipse cx="800" cy="1160" rx="480" ry="202" stroke-width="1.1" opacity="0.65"/>
+      <ellipse cx="800" cy="1160" rx="410" ry="170" stroke-width="1.1" opacity="0.7"/>
+      <ellipse cx="800" cy="1160" rx="340" ry="138" stroke-width="1.2" opacity="0.75"/>
+      <ellipse cx="800" cy="1160" rx="270" ry="106" stroke-width="1.2" opacity="0.8"/>
+      <ellipse cx="800" cy="1160" rx="200" ry="76" stroke-width="1.3" opacity="0.85"/>
+      <ellipse cx="800" cy="1160" rx="132" ry="48" stroke-width="1.3" opacity="0.9"/>
+    </g>
+
+    <!-- fine ledger rule ticks along the contours, ruled-page reading -->
+    <g stroke="#1c1a17" stroke-width="0.6" opacity="0.35">
+      <line x1="120" y1="1160" x2="1480" y2="1160"/>
+      <line x1="200" y1="1010" x2="1400" y2="1010"/>
+      <line x1="200" y1="1310" x2="1400" y2="1310"/>
+    </g>
+
+    <!-- the phantom island: a blank hole cut through the contour field -->
+    <path d="M 800 1030
+             C 862 1032, 902 1066, 896 1108
+             C 892 1136, 918 1150, 912 1182
+             C 906 1214, 862 1226, 826 1216
+             C 796 1234, 748 1226, 736 1196
+             C 706 1188, 690 1156, 706 1126
+             C 690 1100, 706 1066, 744 1058
+             C 756 1034, 780 1024, 800 1030 Z"
+          fill="#efe7d8" stroke="#1c1a17" stroke-width="2.25"/>
+    <!-- soundings / depth marks scattered near the island -->
+    <g fill="#1c1a17" font-size="13" opacity="0.55" letter-spacing="0.5">
+      <text x="620" y="1120">·214</text>
+      <text x="960" y="1090">·338</text>
+      <text x="640" y="1250">·502</text>
+      <text x="980" y="1240">·467</text>
+      <text x="800" y="960">·88</text>
+    </g>
+  </g>
+
+  <!-- upper archival header block -->
+  <g fill="#1c1a17">
+    <text x="800" y="230" text-anchor="middle" font-size="21" letter-spacing="6" opacity="0.7">CATALOGUE OF PHANTOM PLACES</text>
+    <line x1="200" y1="270" x2="1400" y2="270" stroke="#1c1a17" stroke-width="1" opacity="0.5"/>
+  </g>
+
+  <!-- title block -->
+  <g fill="#1c1a17" text-anchor="middle">
+    <text x="800" y="420" font-size="92" letter-spacing="4" font-weight="400">AN ATLAS</text>
+    <text x="800" y="520" font-size="92" letter-spacing="4" font-weight="400">OF ERRORS</text>
+    <text x="800" y="590" font-size="30" font-style="italic" letter-spacing="2" opacity="0.85">A Novel in Maps</text>
+  </g>
+
+  <!-- waterline: the shelf, 1240 m -->
+  <g>
+    <line x1="120" y1="1620" x2="1480" y2="1620" stroke="#7a1f1a" stroke-width="2"/>
+    <text x="800" y="1600" text-anchor="middle" font-size="24" letter-spacing="3" fill="#1c1a17" opacity="0.95">THE SHELF</text>
+    <text x="800" y="1600" text-anchor="middle" font-size="24" letter-spacing="3" fill="#1c1a17" opacity="0" filter="url(#blurSoft)">THE SHELF</text>
+    <rect x="700" y="1636" width="200" height="34" fill="#efe7d8" stroke="#7a1f1a" stroke-width="1"/>
+    <text x="800" y="1660" text-anchor="middle" font-size="19" letter-spacing="2" fill="#7a1f1a">1240 m</text>
+  </g>
+
+  <!-- below-waterline zone: dimmed, slightly blurred, "more than one set of books" -->
+  <g filter="url(#blurDeep)" opacity="0.4">
+    <text x="800" y="1740" text-anchor="middle" font-size="17" letter-spacing="1.5" fill="#1c1a17" font-style="italic">the world keeps more than one set of books</text>
+  </g>
+  <g opacity="0.3">
+    <line x1="220" y1="1790" x2="1380" y2="1790" stroke="#1c1a17" stroke-width="0.6"/>
+    <line x1="220" y1="1840" x2="1380" y2="1840" stroke="#1c1a17" stroke-width="0.6"/>
+    <line x1="220" y1="1890" x2="1380" y2="1890" stroke="#1c1a17" stroke-width="0.6"/>
+    <line x1="220" y1="1940" x2="1380" y2="1940" stroke="#1c1a17" stroke-width="0.6"/>
+  </g>
+
+  <!-- lending card device -->
+  <g>
+    <rect x="220" y="2010" width="1160" height="230" fill="none" stroke="#1c1a17" stroke-width="1.2"/>
+    <line x1="220" y1="2066" x2="1380" y2="2066" stroke="#1c1a17" stroke-width="1"/>
+    <text x="248" y="2050" font-size="16" letter-spacing="1.5" fill="#1c1a17" opacity="0.8">DATE DUE</text>
+    <text x="1352" y="2050" text-anchor="end" font-size="16" letter-spacing="1.5" fill="#7a1f1a">VII. Out.</text>
+
+    <g fill="#1c1a17" font-size="15" opacity="0.75" letter-spacing="0.5">
+      <text x="248" y="2108">Voss, Iris — cataloguer of phantom places</text>
+      <text x="248" y="2140">Ink: iron gall. Provenance: uncertain.</text>
+      <text x="248" y="2172">Borrower record continues below the shelf.</text>
+    </g>
+    <line x1="248" y1="2192" x2="1352" y2="2192" stroke="#1c1a17" stroke-width="0.6" opacity="0.4"/>
+    <line x1="248" y1="2216" x2="1352" y2="2216" stroke="#1c1a17" stroke-width="0.6" opacity="0.4"/>
+  </g>
+
+  <!-- author line -->
+  <g fill="#1c1a17" text-anchor="middle">
+    <line x1="700" y1="2400" x2="900" y2="2400" stroke="#1c1a17" stroke-width="1" opacity="0.6"/>
+    <text x="800" y="2450" font-size="34" letter-spacing="10">CLAUDE</text>
+  </g>
+</svg>
