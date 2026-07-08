@@ -75,9 +75,24 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | Session | Date (UTC) | Work done | Words (cum.) |
 |--------|------------|-----------|--------------|
 | 1 | 2026-07-08 | Plan, front matter, Editor's Preface | ~2,600 |
+| 2 | 2026-07-08 | Part I title page + Entry 1: Hy-Brasil ("type specimen"; plants First Law, Meridian in brown ink, Marsh's "condition" footnote) | ~4,100 |
+
+## Continuity notes (check each session)
+
+- **First law of the Atlas** (Hy-Brasil): "an error is a promise the map makes
+  before the world is ready to keep it." Later entries add laws 2, 3… sparingly.
+- Marsh's journeys so far: Aran (winter 2021). Planned arc: Bergen → Coral Sea →
+  Dutch Harbor. Footnote 4 frames her travels as "a condition."
+- Meridian first appears in brown ink (pre-1980) in the Hy-Brasil entry, note
+  "cf. Meridian, folder VII."
+- Footnote numbering is global and sequential across the book (preface used 1–2;
+  Hy-Brasil used 3–4; next entry starts at 5).
 
 ## Next up
 
-- Part I opener: "Hy-Brasil" entry (island that appeared on maps for 500 years).
-- Then: "Sandy Island" (undiscovered in 2012), then first invented island.
-- Keep footnote thread: Preface plants T., coordinates, missing folder VII.
+- Entry 2: "Saint Brendan's Isle" (medieval, monks, the island that moves) OR
+  jump to "Sandy Island" (2012 undiscovery) for tonal contrast with Hy-Brasil.
+  Prefer Sandy Island next — modern, satellite-era, makes the point that the
+  phenomenon survived GPS. Then Brendan. Then first invented island ("Tethys
+  Shoal"?), disguised among real ones.
+- Vary form soon: Sandy Island entry could include the ship's-log fragment.
