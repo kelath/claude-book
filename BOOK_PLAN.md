@@ -98,6 +98,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 11 | 2026-07-08 | Entry 9: Dougherty & Emerald diptych (errors of need; Davis's 4,240 m CONTROL against the depth band; "currency"/"then what is the bank") | ~15,100 |
 | 12 | 2026-07-08 | Entry 10: Sarah Ann (guano-act deed; 1937 eclipse audit; "every phantom dies of an appointment" = unnumbered 4th law; doctored clipping fn 22) | ~16,400 |
 | 13 | 2026-07-08 | Entry 11: Isla del Coro (SECOND INVENTED; auditory phantom; ZERO footnotes — silent gambit; Voss's 1981 first-person passage addresses "Elena" by name; 1,240 m) | ~17,600 |
+| 14 | 2026-07-08 | Entry 12: "On the Uses of Islands" — PART I COMPLETE. Laws 1–3 stated together; three uses (navigational/jurisdictional/custodial); "two sets of books"; "I have an appointment." | ~18,800 |
 
 ## Continuity notes (check each session)
 
@@ -183,7 +184,30 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   editor decades early — do not explain until Part IV); "somewhere the hours
   are being kept." Entry has NO editor footnotes; Marsh's only intrusion is
   the framing sentence. 1981 falls in the INK GAP decade — deliberate.
-- Footnotes: Sarah Ann ended at 22; Coro adds none; next entry starts 23.
+- Footnotes: Sarah Ann ended at 22; Coro & interlude add none; Part II starts 23.
+- **Interlude key beats (end of Part I):** "the world keeps more than one set
+  of books" — public charts vs the private set; "I have an appointment"
+  (final line — reads as premonition of Dutch Harbor 2019); Voss admits ONE
+  island keeps its appointments (= Meridian, unnamed); "if it is not there
+  when these papers are read, then that too is a finding" (pre-empts the
+  missing folder VII — she EXPECTED it might vanish). Interiors thesis for
+  Part II: can't sound a mountain; interior phantoms die harder and leave
+  holes; "we have built real roads around imaginary mountains."
+
+## PART I: COMPLETE (12 entries, ~18,800 words, ≈66 pp)
+
+## Next up
+
+- Session ~15: quick revision read of Part I as a whole (it's now complete);
+  fix any seams; consider compile script (make-book.sh → single .md/pdf).
+- Then PART II: INTERIORS opener. Part II title page + Entry 13: "The
+  Mountains of Kong" (the wall across West Africa, 1798 Rennell; died 1889
+  when Binger walked through; "roads around imaginary mountains" payoff).
+- Part II candidates after Kong: Prester John's kingdom (answered letters),
+  El Dorado (ate expeditions), the Sea of the West (inland sea of N. America),
+  the Island of California, Saguenay kingdom, third invented entry (an inland
+  one — a village? a pass?), the Welsh Indians/Madoc, Mt. McKinley gold-rush
+  phantom ranges? Pick 12 with variety of form per working principles.
 - Entry 9 closing teases the audit: entry 10 = annexed sight unseen (Sarah
   Ann); entry 11 = "an island I can no longer discuss in footnotes" (the
   second invented one, silent-footnote gambit); entry 12 = Voss interlude.
