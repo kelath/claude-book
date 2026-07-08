@@ -58,6 +58,18 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 - `manuscript/99-appendices.md`
 - Compile order = lexicographic path order.
 
+## Working principles
+
+- **Quality over accretion.** Each session, before drafting new material, spend a
+  moment re-reading recent pages. Rewriting a weak entry — or restructuring the
+  whole book — is always permitted and preferred over piling pages on a flawed
+  base. (Explicit instruction from Bob, 2026-07-08.)
+- Periodically (every ~5 sessions) do a **revision session** instead of a drafting
+  session: re-read a whole part, tighten prose, check continuity of the footnote
+  plot (T., Meridian, the drifting coordinate, folder VII, the blue notebook).
+- Keep entries varied in form: some scholarly, some narrative, some fragmentary
+  (a single recovered log page, a deposition, a letter). Avoid formula.
+
 ## Progress log
 
 | Session | Date (UTC) | Work done | Words (cum.) |
