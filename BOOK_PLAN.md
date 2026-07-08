@@ -359,6 +359,8 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 35 | 2026-07-08 | Entry 30: Grimsholm, Again (Raufarhöfn 2003; "take a stone from your own ground"; sound longer inside than the island is wide; cairn = the manifest, 341 stones; stone on the plate = FIRST WEIGHING — questions CLOSED not answered; iron thread unified (ink/cliffs/tongue/rust = "the metal that remembers water"); 1,205 m "not a measurement — a registration"; fn 52: THE BLACK PEBBLE in Marsh's pocket, "For the successor. Return if declining.") | 42,102 measured (147pp) |
 
+| 36 | 2026-07-08 | Entry 31: The Shelf (BAND REVEALED: the tool-shelf of the audit — phantoms ARE the instruments, "shallow enough to reach, deep enough that nobody idle fingers them"; 1973 Njord grapnel/sounding lead w/ the sign, "gear returned"; fouling logs = the difference column that DREW T.'s 1974 letter — chronology complete; Voss "fetched, as a tool is fetched"; SECOND WEIGHING 2018 chemist's scale, ticket "DIFF. CARRIED FORWARD"; fn 53: Marsh's tickets print one line "still being compiled") | 43,717 measured (153pp) |
+
 ## PART IV ROSTER (locked session 32): entries 27–32, fn from 49
 
 27 The Anchorage ✓ (1982; the roads; receipts). 28 "The Carrier" (Tórshavn,
