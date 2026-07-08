@@ -363,6 +363,26 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 37 | 2026-07-08 | Entry 32: The Approaches — LAST VOSS ENTRY (13 Sept 2019, Dutch Harbor). Sailing-directions form; 168°W = "the meridian of clean air... the purest error... soundest ground to build a door on"; errand = DEPOSIT of the difference column ("They do not want us. They want the differences"); "The tools go back on the shelf"; chose Marsh by the cliffs test; "leave the light on — it is so the shelf can see the room"; ONE marked lie; fn 54 inquest: coat folded/boots squared; the GREY BERGEN PEBBLE returned to the hotel desk — Voss entered into the FIXTURES; black stone = STOCK, "the house's to lend" | 45,082 measured (158pp) |
 
+| 38 | 2026-07-08 | EDITOR'S AFTERWORD (part-5/01). Fabrication thesis buried on method ("explains every document and no behaviour"); BASEL RESOLVED: the client = the 1953 decliner, collection of 41 RETURNED STONES (cards since 1809), "I collect keepers. Kept ones"; his case against the book: Voss stole the naive choice from Marsh ("you will never know whether the choosing was yours or the syllabus's"); offers stopped when typescript reached publisher; papers to library, light left on; "a reader is a port"; 4 appendices announced, last one Marsh's | 46,299 measured (162pp) |
+
+## ENDGAME ARC (sessions 39+): appendices + ending
+- App A: Catalogue of the Bergen folders (short, texture; folder VII line).
+- App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
+  dismantling the climatic/racial zones as maintained enclosures; dark,
+  strong, ~600 words.
+- App C: "A Short Gazetteer of Phantoms Not in the Index" — 15-20 brief
+  entries (Thule, Antillia, Mayda, Davis Land, St. Brendan's second site,
+  Juan de Lisboa, Byers/Morrell Is., Bouvet's ghosts, Croker Mts., etc.),
+  each 3-6 lines w/ one Voss-ish sting; 2 sessions, GOOD page-earner
+  (quality not padding — reference-book pleasure).
+- App D: THE ENDING — "Appendix D: A First Entry" (Marsh's own entry #1).
+  Draft TWO on branches explore/ending-deposit vs explore/ending-decline
+  then choose/merge. Ending swerve requirement (directive 4): contain the
+  telegraphed "Marsh becomes next Voss" AND pass it. Current best swerve:
+  the book itself = her deposit — she brings THE BOOK (the reader holds
+  the blue notebook's successor); final line addresses the reader as the
+  next candidate ("the post is offered twice; this was the first").
+
 ## PART IV ROSTER (locked session 32): entries 27–32, fn from 49
 
 27 The Anchorage ✓ (1982; the roads; receipts). 28 "The Carrier" (Tórshavn,
