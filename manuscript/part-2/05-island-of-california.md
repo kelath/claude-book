@@ -113,7 +113,7 @@ as late as 1865.
     between them the desert lay where it had always lain, unwatered
     and unconsulted, bearing its blue shells.[^31]
 
-One item from the file for the reader keeping the long accounts.
+One item from the file, for the long accounts.
 Among Voss's tracings is the strait itself, isolated — just the
 water, the imaginary Mediterranean between island and main, which
 seventeenth-century convention labelled the Mar Vermejo or Mar de

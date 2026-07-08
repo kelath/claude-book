@@ -93,7 +93,7 @@ opposite banks.
     king, from monarchs too powerful to correct. So they answered
     them. For two centuries a real state conducted the correspondence
     of an imaginary one — signing, in effect, the phantom's mail —
-    because geopolitics made the fiction load-bearing for both
+    because geopolitics had made the fiction indispensable to both
     parties. The reader who thinks this quaint is invited to consider
     how much of the world's current mail is answered on behalf of
     entities that exist in precisely this sense.

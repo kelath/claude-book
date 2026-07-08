@@ -143,6 +143,18 @@ Weak points found: sleuth agency (6/10), villain (4/10), present-day momentum
 5. Momentum: end each remaining entry with its file pointing at the NEXT one
    (already happening informally — make it a rule).
 
+## PROSE TIC BUDGET (session-23 editorial pass; enforce going forward)
+
+- "load-bearing": RETIRED (5 uses stand, incl. deliberate Brendan fn-8 echo).
+- "the reader..." direct address: ≤1 per entry from here on (currently ~48
+  total — in-voice for the apparatus, but stop adding freely).
+- "reader keeping accounts/column" device: max 1 per part remaining.
+- "sit with": retired (3 uses stand).
+- Verified clean: footnotes sequence 1–34; fathom→metre conversions
+  (680fm=1,244m ✓; 2,318fm=4,240m ✓); Milanese-1849 dates ("a century after
+  the decree" ✓); Voss chronology (b.1931: 1968 card at 37 ✓, 84th year ≈
+  2014–15 notebook IX ✓, Coro vigil 1981 at 50 ✓).
+
 ## Continuity notes (check each session)
 
 - **First law of the Atlas** (Hy-Brasil): "an error is a promise the map makes

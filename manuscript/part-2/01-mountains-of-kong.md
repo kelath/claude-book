@@ -59,7 +59,7 @@ to say the sum of European knowledge of both was zero.
     little malice was involved. Every copyist improved the range in
     good conscience, because mountains ought to have snow, and a wall
     across Africa ought to be tall enough to deserve the name. An
-    error, once load-bearing, attracts ornament. We do not merely
+    error, once it bears weight, attracts ornament. We do not merely
     tolerate our fictions; we *maintain* them, the way a town maintains
     its bridge.
 
