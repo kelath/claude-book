@@ -112,6 +112,16 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 24 | 2026-07-08 | Entry 19: Saguenay + FIRST PRESENT-DAY INTERSTITIAL (Basel firm's 3 escalating offers for the papers, first arrived BEFORE cataloguing — "particular interest in unsorted correspondence"; villain pressure begins). Saguenay: ransom cartography; "bank of last resort of the powerless"; faux diamants; fn 36 sets up Entry 20 = Voss's 1988 symposium paper "On Walls" WITH the room's response | 24,045 measured (84pp) |
 | 25 | 2026-07-08 | Entry 20: On Walls — PART II COMPLETE (8 entries). Vienna 1988 paper + tape transcript; enclosure thesis ("we are the groundskeepers' heirs"); Q&A: B— = 1971 referee (thread closed CLEANLY — anti-paranoia beat); UNIDENTIFIED questioner ("neither young nor old"); "the post is offered TWICE... the second offer feels like an errand"; Dutch Harbor = the errand; Part III framed as "a syllabus" | 25,311 measured (88pp) |
 | 26 | 2026-07-08 | PART III opens. Entry 21: Terra Australis (secreted by SYMMETRY — the planet weighed; the 南 mortgage; Quirós first casualty; Cook's clean cancellation; 1820 promise KEPT — "the passenger was the same passenger"; fn 39 notebook X = brown ink AFTER 1980, ink-gap thread activated; fn 40 retires "load-bearing" in-world) | 26,766 measured (93pp) |
+| 27 | 2026-07-08 | Entries 22+23 (DUAL). 22 Open Polar Sea — SONNET-DRAFTED PILOT, Fable-briefed+edited (1 fix); theory early-not-wrong, ice minima, "My appointment is earlier," Dutch Harbor bearing = 1,230 m. 23 Frisland (Fable): forged geography; Frobisher annexes Greenland as "West England"; Sorand & Rane unlocatable; MILANESE #3 "Frislanda (sommersa)" 1,238 m at Rane; Marsh writes to Braidense — answer promised in next interstitial | 29,921 measured (104pp) |
+
+## SUBAGENT PIPELINE (est. session 27; per Bob)
+
+Fable plans/briefs/edits; Sonnet drafts. Pilot verdict: strong voice hit
+(~95%), facts accurate, structure exact; one syntax fix. Standing process:
+brief must include structure template, 2 voice excerpts, historical facts,
+continuity canon, tic bans, exact footnote numbers, and the assigned mystery
+beat. Fable ALWAYS reads and edits before commit. Keep Voss's biggest
+set-piece entries (interludes, Part IV, finale) Fable-written.
 
 ## STORY-QUALITY DIRECTIVES (from session-22 self-review vs Bob's 10 criteria)
 
