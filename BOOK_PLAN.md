@@ -353,6 +353,8 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 32 | 2026-07-08 | PART IV opens. Entry 27: The Anchorage (folder XXVIII; first-person Voss, 1982 m/s Herdis; the roads; eleven riding lights, two flames; "In the roads, Professor"; anchored in 1,241 m; log reads "hove to, no progress"; "Anchorage is free. The chart pays"; impossible noons = RECEIPTS; fn 49 the second officer: "Then it's her entry against ours") | 38,103 measured (133pp) |
 
+| 33 | 2026-07-08 | Entry 28: The Carrier (Tórshavn 1996; Jespersen; "the shelves do the travelling — a kept shelf is one place, wherever it stands"; Philip = the first PREMISES; the uncollected tray — topmost envelope bears a name Voss knows and won't print ("She may yet collect it" — MARSH? leave ambiguous); "The watcher pays"; fn 50: "Your letter has been placed" + publication-as-placement, reader walked into the shop) | 39,469 measured (138pp) |
+
 ## PART IV ROSTER (locked session 32): entries 27–32, fn from 49
 
 27 The Anchorage ✓ (1982; the roads; receipts). 28 "The Carrier" (Tórshavn,
