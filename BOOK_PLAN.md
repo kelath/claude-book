@@ -365,6 +365,8 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 38 | 2026-07-08 | EDITOR'S AFTERWORD (part-5/01). Fabrication thesis buried on method ("explains every document and no behaviour"); BASEL RESOLVED: the client = the 1953 decliner, collection of 41 RETURNED STONES (cards since 1809), "I collect keepers. Kept ones"; his case against the book: Voss stole the naive choice from Marsh ("you will never know whether the choosing was yours or the syllabus's"); offers stopped when typescript reached publisher; papers to library, light left on; "a reader is a port"; 4 appendices announced, last one Marsh's | 46,299 measured (162pp) |
 
+| 39 | 2026-07-08 | Appendices A + B. A: Bergen folder catalogue I–XXXIV (VII "Out"; IX still tied; XXXI's bag NOW EMPTY "see App D"; XXXIII barometer on Marsh's desk "never once tapped"; XXXIV empty, bought new, "For the successor's differences"). B: the zones passage ("A zone is a verdict"; "nondum admissa"; "Errors are never destroyed, reader. You have my whole life on it.") | 47,514 measured (166pp) |
+
 ## ENDGAME ARC (sessions 39+): appendices + ending
 - App A: Catalogue of the Bergen folders (short, texture; folder VII line).
 - App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
