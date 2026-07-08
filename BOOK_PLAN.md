@@ -76,6 +76,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 |--------|------------|-----------|--------------|
 | 1 | 2026-07-08 | Plan, front matter, Editor's Preface | ~2,600 |
 | 2 | 2026-07-08 | Part I title page + Entry 1: Hy-Brasil ("type specimen"; plants First Law, Meridian in brown ink, Marsh's "condition" footnote) | ~4,100 |
+| 3 | 2026-07-08 | Entry 2: Sandy Island (2012 undiscovery; ship's-log fragment; Second Law; "stowed" note + seen/sounded list, avg 1,240 m) | ~5,500 |
 
 ## Continuity notes (check each session)
 
@@ -85,14 +86,21 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   Dutch Harbor. Footnote 4 frames her travels as "a condition."
 - Meridian first appears in brown ink (pre-1980) in the Hy-Brasil entry, note
   "cf. Meridian, folder VII."
-- Footnote numbering is global and sequential across the book (preface used 1–2;
-  Hy-Brasil used 3–4; next entry starts at 5).
+- Footnote numbering is global and sequential across the book (preface 1–2;
+  Hy-Brasil 3–4; Sandy Island 5–6; next entry starts at 7).
+- **Second law** (Sandy Island): "An error is an honest observation that has
+  outlived its weather."
+- Voss's "seen/sounded" list averages 1,240 m over vanished islands; "stowed";
+  cross-ref promises Bermeja is entry No. 4.
+- CSIRO archive went silent on Marsh — institutions going quiet is a motif.
 
 ## Next up
 
-- Entry 2: "Saint Brendan's Isle" (medieval, monks, the island that moves) OR
-  jump to "Sandy Island" (2012 undiscovery) for tonal contrast with Hy-Brasil.
-  Prefer Sandy Island next — modern, satellite-era, makes the point that the
-  phenomenon survived GPS. Then Brendan. Then first invented island ("Tethys
-  Shoal"?), disguised among real ones.
-- Vary form soon: Sandy Island entry could include the ship's-log fragment.
+- Entry 3: "Saint Brendan's Isle" (medieval; the island that moves; monks hold
+  Mass on a whale's back — myth vs. chart persistence).
+- Entry 4: "Bermeja" (Gulf of Mexico; vanished island with oil-rights stakes;
+  conspiracy theories; must pay off the "stowed" footnote — sounded depth
+  should sit near the 1,240 m average, unnervingly).
+- Entry 5: first invented island — "Tethys Shoal" or similar, disguised among
+  real ones; Marsh's footnote should fail to find any external source for it
+  and note this uneasily.
