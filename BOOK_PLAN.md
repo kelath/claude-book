@@ -106,6 +106,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 16 | 2026-07-08 | PART II opens. Entry 13: Mountains of Kong (error of the argument; wall that guards its own counter-evidence; Binger's walk; PASSO DEL CORO in 1849 Milanese atlas — fn 24 links to Isla del Coro; "we catalogued the walls") | 15,603 measured (54pp) |
 | 17 | 2026-07-08 | Entry 14: Prester John (the kingdom that answered letters; Philip the papal carrier delivered WITH the letter; Ethiopia signs the phantom's mail; fn 25 — T. letters were all HAND-DELIVERED; fn 26 — "information about the address") | 17,030 measured (59pp) |
 | 18 | 2026-07-08 | Entry 15: El Dorado (sign reversed: deposit→vault; FIFTH LAW — phantoms migrate up the category chain; Guatavita = teller's window, account FROZEN 1912; "we have the sign reversed on every chart but this one"; teaser: next file SEALED) | 18,578 measured (65pp) |
+| 19 | 2026-07-08 | Entry 16: Mīzān (THIRD INVENTED; the Weighing Town; sealed file; "the toll is the weighing"; SIGN SOLVED = beam balance end-on; "entered against the house"; Voss weighed twice; Marsh starts keeping her own figures; fn 29 folio 214 "the account is current") | 19,902 measured (69pp) |
 
 ## Continuity notes (check each session)
 
@@ -242,7 +243,17 @@ session for true counts; log MEASURED numbers, not estimates.
   no—) Better: the SEALED file suits the third invented entry. REORDER:
   do invented entry next ("the Weighing Town"?) as the sealed file, then
   California, Sea of the West, Saguenay, interlude. Part II roster stays 8.
-- Footnotes: El Dorado 27–28; next starts 29.
+- Footnotes: El Dorado 27–28; Mīzān 29–30; next starts 31.
+- **Mīzān plants (all Part IV fuel):** the sign = beam balance end-on, drawn
+  "at the places where the weighing is done" (Grimsholm cairn, La Palma
+  margin → weighing stations); "entered against the house" ×2 (Jesuit's boy;
+  Voss herself); Voss weighed TWICE (Grimsholm? Coro? — list per fn 30);
+  Marsh now keeps her own weight records (61 kg, 11 Nov 2024) — quiet dread,
+  pays off if SHE gets weighed in Part IV; fn 29: folio 214 catalogued as
+  missing since 1888 yet present — "the account is current" (escalation
+  ladder stage 4: archives updating around her).
+- **"The house"** — new entity alongside the bank: differences are entered
+  against the house. Who is the house? Part IV question; T. may serve it.
 - **QUALITY-FIRST RESTRUCTURE (per Bob):** Parts II–III trimmed from 12+10
   to ~8+7 entries — only the ones that advance both geography AND mystery.
   Part II roster (8): Kong ✓; Prester John (kingdom that answered letters);
