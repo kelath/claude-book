@@ -65,7 +65,7 @@ They are the durable, well-attested, load-bearing marks of something
 the charts cannot carry and therefore carry wrongly, the way a ledger
 carries a debt it cannot describe as anything but a number. The depth
 that repeats. The sign that recurs in archives that never corresponded.
-The phrase that surfaces in two languages, sixty years apart, applied
+The phrase that surfaces in two languages, seventy years apart, applied
 to the same category of place. The singing that ends like a door shut
 on company. I have spent fifty years sorting the merely dead islands
 from these others, and the sorting is the Atlas, and the others are

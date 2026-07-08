@@ -194,13 +194,18 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   Part II: can't sound a mountain; interior phantoms die harder and leave
   holes; "we have built real roads around imaginary mountains."
 
-## PART I: COMPLETE (12 entries, ~18,800 words, ≈66 pp)
+## PART I: COMPLETE (12 entries; MEASURED 13,968 words ≈ 49 pp)
+
+**CALIBRATION (session 15, measured via make-book.sh):** running estimates in
+the log above were ~25% high; true output is ~1,100 words/entry. At 300pp
+target (~85,500 words) Parts II–IV must run RICHER: target 1,800–2,200 words
+per entry (as the original plan specified), and don't shy from long entries
+(Kong, El Dorado, Prester John deserve 2,500+). Run `./make-book.sh` each
+session for true counts; log MEASURED numbers, not estimates.
 
 ## Next up
 
-- Session ~15: quick revision read of Part I as a whole (it's now complete);
-  fix any seams; consider compile script (make-book.sh → single .md/pdf).
-- Then PART II: INTERIORS opener. Part II title page + Entry 13: "The
+- PART II: INTERIORS opener. Part II title page + Entry 13: "The
   Mountains of Kong" (the wall across West Africa, 1798 Rennell; died 1889
   when Binger walked through; "roads around imaginary mountains" payoff).
 - Part II candidates after Kong: Prester John's kingdom (answered letters),

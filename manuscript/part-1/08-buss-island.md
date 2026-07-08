@@ -93,5 +93,5 @@ documents; I will not rehearse the feeling here. The HBC archive in
 Winnipeg is superbly catalogued. The memorandum exists. The marginal
 docket exists. I have held the photostat against the window and against
 better judgement, and the hand of the docket is seventeenth-century, and
-the phrase is the Danish Admiralty's phrase, sixty years early and an
+the phrase is the Danish Admiralty's phrase, seventy years early and an
 ocean away. Institutions do not share marginalia. Categories do.
