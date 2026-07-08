@@ -79,6 +79,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 3 | 2026-07-08 | Entry 2: Sandy Island (2012 undiscovery; ship's-log fragment; Second Law; "stowed" note + seen/sounded list, avg 1,240 m) | ~5,500 |
 | 4 | 2026-07-08 | Entry 3: Saint Brendan's Isle (Jasconius; migratory phantom; Third Law; circle-divided-by-line sign; "displacement is the signature") | ~7,000 |
 | 5 | 2026-07-08 | Entry 4: Bermeja (oil-rights phantom; 1,190 m sounding pays off "stowed"; T.'s "rust" letter #43; Marsh's 4 a.m. footnote, her avg 1,236 m) | ~8,200 |
+| 6 | 2026-07-08 | Entry 5: Grimsholm (FIRST INVENTED ISLAND; furnished cairn w/ the sign; "not for stations"; 1,205 m; Marsh can't source the file — fn 12) | ~9,600 |
 
 ## Continuity notes (check each session)
 
@@ -112,12 +113,22 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   rust." Bermeja's redness = rust. T. letters are numbered — total is 71
   (per preface). Keep numbering consistent when quoting more.
 
+- **Grimsholm is the invented island** (Entry 5): black-sided, sound through
+  middle (echoes Dulcert disc shape!), ruddled/red cliffs (rust motif), warm
+  black sand, waterfall, furnished cairn w/ circle-and-line sign, "The island
+  is not for stations," erased totally after 1817, sounding 1,205 m.
+  Marsh's fn 12: no shelfmarks exist; "the same possibility phrased at two
+  different depths." Grimsholm should RECUR in Part IV (Meridian material).
+- Footnotes: ...Bermeja 9–10; Grimsholm 11–12; next starts 13.
+
 ## Next up
 
-- Entry 5: first invented island — "Tethys Shoal" (or better name), disguised
-  among real ones; scholarly texture identical to real entries; Marsh's
-  footnote fails to find ANY external source for it and says so uneasily —
-  first direct evidence Voss wrote entries for places with no paper trail.
-- Entry 6: "Crocker Land" (Peary's 1906 arctic mirage; 1913 disaster
-  expedition; ties to mirage theme from Brendan).
-- Session ~7: revision pass over Part I so far (per working principles).
+- Session 7: **revision pass** over Part I so far (per working principles):
+  re-read preface + entries 1–5 for continuity, prose tightness, over-repetition
+  (watch: "third place" frequency, footnote-voice drift arriving too fast).
+- Then Entry 6: "Crocker Land" (Peary's 1906 arctic mirage; 1913 disaster
+  expedition; Fata Morgana ties to Brendan mirage theme).
+- Then Part I remaining candidates: Buss Island, Saint Matthew Island (Atlantic),
+  Aurora Islands, Dougherty Island, Emerald Island, Sarah Ann, second invented
+  entry late in Part I or none until Part II. Not all — pick ~4-5 best + close
+  Part I with a short Voss interlude ("On the Uses of Islands").
