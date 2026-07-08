@@ -104,6 +104,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 14 | 2026-07-08 | Entry 12: "On the Uses of Islands" — PART I COMPLETE. Laws 1–3 stated together; three uses (navigational/jurisdictional/custodial); "two sets of books"; "I have an appointment." | ~18,800 (est) |
 | 15 | 2026-07-08 | Revision (sixty→seventy) + make-book.sh + calibration | 13,968 measured |
 | 16 | 2026-07-08 | PART II opens. Entry 13: Mountains of Kong (error of the argument; wall that guards its own counter-evidence; Binger's walk; PASSO DEL CORO in 1849 Milanese atlas — fn 24 links to Isla del Coro; "we catalogued the walls") | 15,603 measured (54pp) |
+| 17 | 2026-07-08 | Entry 14: Prester John (the kingdom that answered letters; Philip the papal carrier delivered WITH the letter; Ethiopia signs the phantom's mail; fn 25 — T. letters were all HAND-DELIVERED; fn 26 — "information about the address") | 17,030 measured (59pp) |
 
 ## Continuity notes (check each session)
 
@@ -217,7 +218,13 @@ session for true counts; log MEASURED numbers, not estimates.
   catalogued the walls"; 1971 referee who signed with an initial (NOT T. —
   a second correspondent? candidate Part IV character); Voss's zones passage
   "placed in the appendices" (must exist in appendices!).
-- Footnotes: Kong 23–24; next starts 25.
+- Footnotes: Kong 23–24; Prester John 25–26; next starts 27.
+- **Prester John plants:** Philip's office ("was it ever afterward vacant" —
+  T. as the current holder? carriers motif). T.-letter canon FIXED (fn 25,
+  contradiction resolved in-session): 71 letters total, 11 postmarked
+  (incl. Reykjavík '74, Veracruz '10, Aleutians '19), 60 hand-carried.
+- "It is information about the address" (fn 26) — Marsh's turn from fearing
+  T. to studying the address itself; sets up her Part IV decision.
 - **QUALITY-FIRST RESTRUCTURE (per Bob):** Parts II–III trimmed from 12+10
   to ~8+7 entries — only the ones that advance both geography AND mystery.
   Part II roster (8): Kong ✓; Prester John (kingdom that answered letters);
