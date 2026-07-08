@@ -405,6 +405,17 @@ first). Close the gap with QUALITY material only:
 
 | 46 | 2026-07-08 | ENDING A drafted on explore/ending-deposit (pushed). "A First Entry: 1. Marsh" — she catalogues herself as a kept place; the swerve: she DECLINES the voyage-ending on trade grammar (editor ≠ cartographer; instruments fetched in the shape of their work); "a book is brought to its meridian by publication — YOU are the meridian"; reader weighed while reading; first offers usually come as books; stone stays lent; "Sign clearly on your way out." | branch only |
 
+| 47 | 2026-07-08 | ENDING B drafted on explore/ending-decline (pushed). "The Fourth Excluded Entry: Marsh" — returns the stone, says "No," NOTHING HAPPENS ("declining is the withdrawal of oneself from the class of things events happen to"); the THOMPSON GAMBIT: publication = unrecallable deposit, the secret scattered ("copying beats embarrassment"); light OFF ("the room can see the shelf"); Aran next autumn as a free reader; "visiting hours... called reading" | branch only |
+
+**ENDING DECISION next session:** compare A (deposit/reader-as-meridian,
+warm-uncanny, implicates reader as candidate) vs B (decline/Thompson gambit,
+cold-humanist, weaponizes publication AGAINST the system). Both end on
+reading. A is the more original mechanism; B the stronger character choice
+and pays Thompson + the collector + letter 62. CONSIDER HYBRID: B's spine
+(the No, the returned stone, nothing happens, Thompson gambit) + A's
+reader-weighing passage (first offers come as books) as B already gestures.
+Judge fresh, merge winner, then final revision pass + assembly.
+
 ## ENDGAME ARC (sessions 39+): appendices + ending
 - App A: Catalogue of the Bergen folders (short, texture; folder VII line).
 - App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
