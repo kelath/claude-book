@@ -367,6 +367,32 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 39 | 2026-07-08 | Appendices A + B. A: Bergen folder catalogue I–XXXIV (VII "Out"; IX still tied; XXXI's bag NOW EMPTY "see App D"; XXXIII barometer on Marsh's desk "never once tapped"; XXXIV empty, bought new, "For the successor's differences"). B: the zones passage ("A zone is a verdict"; "nondum admissa"; "Errors are never destroyed, reader. You have my whole life on it.") | 47,514 measured (166pp) |
 
+| 41 | 2026-07-08 | Appendix C: gazetteer, 15 entries (Isle of Demons "What did she hear at matins?"; Los Jardines deleted by memo 1973 "I was invited to the deletion"; Tuanaki in the PRACTICE box; María Theresa "the smallest wall in the world"; Thompson Island "no third column for the free"; final divider "NOT YET", empty) | 48,793 measured (171pp) |
+
+## LENGTH STRATEGY (session 41 decision — honest expansion, no padding)
+
+Projected finish at current scope ≈ 180pp; Bob's range 250–300 (quality
+first). Close the gap with QUALITY material only:
+1. EXPANSION: 3 full Part III entries (all gazetteer-graduates with real
+   depth): Croker Mountains (Ross/Parry; flattery + refraction; ruined
+   career), Thompson Island (escaped both ledgers; "no third column"),
+   María Theresa Reef (the last working phantom; modern charts; Verne).
+   Insert as entries 24–26 before Rupes Nigra → RENUMBER Part III/IV
+   entries (Rupes 24→27 ... Approaches 32→35), preface counts 33/32→36/35,
+   interlude "twenty-six entries"→"twenty-nine", Approaches "thirty-one
+   entries"→"thirty-four", App A folders — new entries carry NO editor
+   footnotes (avoids fn renumber cascade; justify: "prepared for print
+   before leaving," apparatus withheld). Trim gazetteer's Croker/Thompson/
+   María Theresa cards to one-line "see Entry NN" pointers.
+2. APPENDIX: "The Eleven Postmarked Letters" (T. to I.V., 1974–2019) —
+   the 60 carried letters stay restricted (consistent w/ App A); the 11
+   postmarked ones printed. Epistolary set-piece, ~8pp. Insert as new
+   Appendix C (letters) or D; renumber appendix letters accordingly.
+3. Interstitial: "Interleaved: The Reading Room" (optional if needed) —
+   Marsh's final week before delivering typescript.
+4. Then App D/E ending (two branch drafts), full revision pass, DONE
+   ~230–260pp. If it lands 230-245: accept — tell Bob the honest number.
+
 ## ENDGAME ARC (sessions 39+): appendices + ending
 - App A: Catalogue of the Bergen folders (short, texture; folder VII line).
 - App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
