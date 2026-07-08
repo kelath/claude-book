@@ -53,8 +53,9 @@ Frisland (Sorand and Rane); Rupes Nigra (the pole-position plot);
 Vardø-9 (the orphan synoptics, complete, four thousand of them, and
 the Tromsø working paper); and a folder labelled only *Schedules*,
 which contains ferry timetables, tide tables, and eclipse
-predictions spanning ninety years, interfiled without comment, in
-an order I have not cracked.
+predictions spanning ninety years — and, interfiled among them,
+the three finished entries her index refused, printed in this
+edition following Part III.
 
 **XXVII.** The T. correspondence. Seventy-one letters. Eleven
 postmarks. Restricted, at my instruction, until 2031 — the year the

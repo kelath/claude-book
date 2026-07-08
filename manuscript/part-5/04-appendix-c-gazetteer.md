@@ -94,15 +94,8 @@ withdrawn, then withdrawal takes the living, and the third place
 has a census. I have never been able to file this card. It is
 in the box marked PRACTICE, and I am not sorry.*
 
-**THE CROKER MOUNTAINS.** Lancaster Sound, 1818–1819. A range
-sighted by Captain John Ross barring the entrance to the
-Northwest Passage; named for the Secretary of the Admiralty;
-disbelieved by his own officers on the spot. Parry sailed
-through the range's exact position the following summer without
-wetting a topsail. Ross's career never recovered. *IV: The only
-mountain range with a lifespan shorter than the promotion of the
-man it flattered. Refraction builds quickly for those in a
-hurry. See also the entire nineteenth century.*
+**THE CROKER MOUNTAINS.** Lancaster Sound, 1818–1819. *See the
+first of the Excluded Entries, printed following Part III.*
 
 **NEW SOUTH GREENLAND.** Weddell Sea, 1823. Reported by Benjamin
 Morrell, the greatest liar in the southern ocean, with his usual
@@ -112,28 +105,11 @@ mirage of the real coast, displaced by his invented positions.
 the composing, the liar merely taking dictation. It is the
 nearest thing the file offers to mercy for him.*
 
-**MARÍA THERESA REEF.** South Pacific, 1843–still charted within
-living memory. A whaler's reef south-east of New Zealand; never
-found by any survey; retained on charts into the era of satellite
-navigation "for the avoidance of doubt." Jules Verne marooned his
-castaways on it twice. *IV: The last of the working phantoms —
-kept on the modern chart not because anyone believes but because
-deletion is the one act a hydrographer cannot survive being wrong
-about. We have built our whole science, at the end, around a
-single humility: the sea does not confirm removals. Note the
-grammar of the retention: "for the avoidance of doubt." Doubt is
-precisely what is being maintained. It is the smallest wall in
-the world, eleven letters long, and it is kept.*
+**MARÍA THERESA REEF.** South Pacific, 1843–current. *See the
+third of the Excluded Entries.*
 
-**THOMPSON ISLAND.** South Atlantic, near Bouvetøya, 1825–1943.
-Sighted by a respected sealing captain; searched for by science
-for a century; possibly a real volcanic islet destroyed in an
-eruption — the one phantom that may have died not of an audit
-but of geology. *IV: If it existed and blew up, it is the only
-place in my file to have escaped both ledgers at once. There is
-no third column for the free. I have looked. That there is no
-third column is, of everything in fifty years, the finding I
-most wish I could unmake.*
+**THOMPSON ISLAND.** South Atlantic, 1825–1943, verdict open.
+*See the second of the Excluded Entries.*
 
 *[The card file's final divider is labelled, in the brown ink,
 "NOT YET." It is empty. I have added nothing to it. — E.M.]*
