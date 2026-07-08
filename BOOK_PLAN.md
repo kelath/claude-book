@@ -349,7 +349,9 @@ offer feels like an errand"; UNIDENTIFIED Vienna questioner (voice "neither
 young nor old" — same phrase as Mīzān clerks; is T.? is a clerk?); B— thread
 closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
-## PART IV PLAN (next): "THE BLANK QUARTER" — Voss's own six + missing Meridian
+| 31 | 2026-07-08 | INTERLEAVED: BERGEN (Fable set-piece). Ledger: Voss's last visit 3/2019 "took one carton" but passport shows no travel after Jan; T.'s visit 4 Oct 2019 ("left the light on"); Halter court-order inspection photographed THE SHELVING; folder VII slot = DUST-FREE, MAINTAINED, with lending card: "VII. Out." + reverse in brown ink, Marsh's name in full: "When the book is finished, bring it; you know the meridian; decline if you can. — T." = THE FIRST OFFER. One heir secretly dealing w/ Basel. Marsh decides: print the six, write afterword, let it come due | 36,796 measured (129pp) |
+
+## PART IV PLAN: "THE BLANK QUARTER" — Voss's own six + missing Meridian
 
 Sequence: Bergen interstitial FIRST (Marsh at the storage unit: shelf audit,
 folder VII dust-gap evidence, something found — the first T. letter? a key?
