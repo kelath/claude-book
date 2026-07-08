@@ -30,6 +30,11 @@ personally, at some cost.*
 - **Part I — Islands**
 - **Part II — Interiors**
 - **Part III — Waters & Poles**
+- The Excluded Entries
 - **Part IV — The Blank Quarter**
 - Editor's Afterword
-- Appendices
+- Appendix A — The Bergen Folders
+- Appendix B — From Notebook IV: On the Zones
+- Appendix C — A Short Gazetteer
+- Appendix D — The Eleven Postmarked Letters
+- Appendix E — A First Entry
