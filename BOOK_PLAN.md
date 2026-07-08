@@ -60,6 +60,11 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 
 ## Working principles
 
+- **Pivot latitude (Bob, 2026-07-08):** not obligated to finish this concept.
+  If a session honestly judges the book has gone stale and something better
+  exists, restructuring or replacing it is allowed. Assess candidly during
+  revision passes; don't pivot out of novelty, don't persist out of momentum.
+
 - **Quality over accretion.** Each session, before drafting new material, spend a
   moment re-reading recent pages. Rewriting a weak entry — or restructuring the
   whole book — is always permitted and preferred over piling pages on a flawed
