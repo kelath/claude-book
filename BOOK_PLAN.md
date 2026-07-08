@@ -3,7 +3,10 @@
 **Working title:** *An Atlas of Errors: A Novel in Maps*
 **Author:** Claude (with Bob's blessing)
 **Language:** English
-**Target length:** ~300 pages ≈ 85,000 words (≈285 words/page)
+**Target length:** 250–300 pages (≈71,000–85,500 words @285 w/p).
+**PRIORITY (Bob, 2026-07-08): story quality over page count.** Do not pad.
+If the book is best at 255 pages, stop at 255. Cut entries that don't earn
+their place; a tight four-part arc beats a full dozen entries per part.
 
 ## Concept
 
@@ -98,7 +101,9 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 11 | 2026-07-08 | Entry 9: Dougherty & Emerald diptych (errors of need; Davis's 4,240 m CONTROL against the depth band; "currency"/"then what is the bank") | ~15,100 |
 | 12 | 2026-07-08 | Entry 10: Sarah Ann (guano-act deed; 1937 eclipse audit; "every phantom dies of an appointment" = unnumbered 4th law; doctored clipping fn 22) | ~16,400 |
 | 13 | 2026-07-08 | Entry 11: Isla del Coro (SECOND INVENTED; auditory phantom; ZERO footnotes — silent gambit; Voss's 1981 first-person passage addresses "Elena" by name; 1,240 m) | ~17,600 |
-| 14 | 2026-07-08 | Entry 12: "On the Uses of Islands" — PART I COMPLETE. Laws 1–3 stated together; three uses (navigational/jurisdictional/custodial); "two sets of books"; "I have an appointment." | ~18,800 |
+| 14 | 2026-07-08 | Entry 12: "On the Uses of Islands" — PART I COMPLETE. Laws 1–3 stated together; three uses (navigational/jurisdictional/custodial); "two sets of books"; "I have an appointment." | ~18,800 (est) |
+| 15 | 2026-07-08 | Revision (sixty→seventy) + make-book.sh + calibration | 13,968 measured |
+| 16 | 2026-07-08 | PART II opens. Entry 13: Mountains of Kong (error of the argument; wall that guards its own counter-evidence; Binger's walk; PASSO DEL CORO in 1849 Milanese atlas — fn 24 links to Isla del Coro; "we catalogued the walls") | 15,603 measured (54pp) |
 
 ## Continuity notes (check each session)
 
@@ -208,11 +213,19 @@ session for true counts; log MEASURED numbers, not estimates.
 - PART II: INTERIORS opener. Part II title page + Entry 13: "The
   Mountains of Kong" (the wall across West Africa, 1798 Rennell; died 1889
   when Binger walked through; "roads around imaginary mountains" payoff).
-- Part II candidates after Kong: Prester John's kingdom (answered letters),
-  El Dorado (ate expeditions), the Sea of the West (inland sea of N. America),
-  the Island of California, Saguenay kingdom, third invented entry (an inland
-  one — a village? a pass?), the Welsh Indians/Madoc, Mt. McKinley gold-rush
-  phantom ranges? Pick 12 with variety of form per working principles.
+- **Kong plants:** "Passo del Coro" (fn 24) — the doors are labelled; "we
+  catalogued the walls"; 1971 referee who signed with an initial (NOT T. —
+  a second correspondent? candidate Part IV character); Voss's zones passage
+  "placed in the appendices" (must exist in appendices!).
+- Footnotes: Kong 23–24; next starts 25.
+- **QUALITY-FIRST RESTRUCTURE (per Bob):** Parts II–III trimmed from 12+10
+  to ~8+7 entries — only the ones that advance both geography AND mystery.
+  Part II roster (8): Kong ✓; Prester John (kingdom that answered letters);
+  El Dorado (ate expeditions); Island of California (error by decree);
+  Sea of the West (blank that got furnished); Saguenay (kingdom of blond
+  men, told to Cartier — testimony-only phantom); third invented entry
+  ("the Weighing Town" or an inland pass-village, TBD); Voss interlude
+  "On Walls" closing Part II. Cut: Madoc, gold-rush ranges, misc.
 - Entry 9 closing teases the audit: entry 10 = annexed sight unseen (Sarah
   Ann); entry 11 = "an island I can no longer discuss in footnotes" (the
   second invented one, silent-footnote gambit); entry 12 = Voss interlude.
