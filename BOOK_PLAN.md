@@ -110,6 +110,39 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 20 | 2026-07-08 | Entry 17: Island of California (truth dispossessed — correction is not a ratchet; market-secreted error; Kino's shells; killed by DECREE 1747; Milanese 1849 strait sounding 680 fathoms = 1,244 m — fn 32) | 21,270 measured (74pp) |
 | 21 | 2026-07-08 | Entry 18: Sea of the West (Delisle's DRAWER = quarantine protocol; curated error (hypothesis+hoax+pilot); Juan de Fuca promise redeemed — "the coast was listening"; Voss's EARLIEST card 1968: "what was the drawer FOR"; Atlas itself = a drawer, "notice whose hands it is in now") | 22,738 measured (79pp) |
 
+## STORY-QUALITY DIRECTIVES (from session-22 self-review vs Bob's 10 criteria)
+
+Weak points found: sleuth agency (6/10), villain (4/10), present-day momentum
+(6/10), red herring (3/10), ending telegraphed. Fixes, binding for Parts III–IV:
+
+1. **Activate Marsh (Part III on):** present-day events between entries. Her
+   Bergen/Coral Sea/Dutch Harbor journeys happen ON THE PAGE (interstitial
+   notes, not just footnotes). Something happens TO her: an approach, a letter
+   addressed to her, folder VII's dust-outline found, her reader's ticket
+   going missing.
+2. **Villain with a face:** introduce a named antagonist mid-Part III — a
+   collector/dealer (working name: **Herr Anselm Küfer**?) who has been
+   quietly buying phantom-place archives (incl. trying to buy the Voss
+   estate), who wants the Atlas UNpublished. Ambiguity: agent of "the house"?
+   rival of T.? Failed candidate for Philip's office? He supplies pressure:
+   legal threats via the estate, a burgled storage unit, a too-good offer.
+3. **Red herring (start Part III):** the rival-scholar thesis — a plausible,
+   evidence-backed case that VOSS FABRICATED EVERYTHING: the invented entries
+   (Grimsholm, Coro, Mīzān) are the "evidence"; the colleague who read the
+   Grimsholm file (interlude) or the 1971 referee resurfaces to argue it;
+   Marsh half-believes it for several entries. It must be genuinely
+   persuasive — the reader should waver. Collapse it late (the folio-214
+   class of findings can't be faked by a dead woman).
+4. **Ending — beat the telegraph:** the reader guesses "Marsh becomes the
+   next Voss." Ending must contain that AND swerve past it. Draft 2 endings
+   on explore/ branches before committing (per branch policy). Current
+   candidate swerve: publication IS the deposit — the book itself is what T.
+   meant by "bring the blue notebook"; Marsh's final act reverses the sign
+   (she doesn't go to Meridian; she OPENS the drawer and the reader is now
+   holding the weighing). Keep working it.
+5. Momentum: end each remaining entry with its file pointing at the NEXT one
+   (already happening informally — make it a rule).
+
 ## Continuity notes (check each session)
 
 - **First law of the Atlas** (Hy-Brasil): "an error is a promise the map makes
