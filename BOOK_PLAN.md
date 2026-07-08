@@ -403,6 +403,8 @@ first). Close the gap with QUALITY material only:
 
 | 43 | 2026-07-08 | EXCLUDED ENTRIES headnote + First (Croker Mountains). Schedules folder = "appointments pending"; index = ledger of settled accounts; Croker: honest Ross, the wall the sky built, account VOIDED before banking → difference struck against A PERSON, "the debt is the phantom... waits for the estate to come asking after the papers" (= Marsh chill: SHE came asking after papers) | 50,122 measured (175pp) |
 
+| 46 | 2026-07-08 | ENDING A drafted on explore/ending-deposit (pushed). "A First Entry: 1. Marsh" — she catalogues herself as a kept place; the swerve: she DECLINES the voyage-ending on trade grammar (editor ≠ cartographer; instruments fetched in the shape of their work); "a book is brought to its meridian by publication — YOU are the meridian"; reader weighed while reading; first offers usually come as books; stone stays lent; "Sign clearly on your way out." | branch only |
+
 ## ENDGAME ARC (sessions 39+): appendices + ending
 - App A: Catalogue of the Bergen folders (short, texture; folder VII line).
 - App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
