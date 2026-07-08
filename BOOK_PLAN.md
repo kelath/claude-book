@@ -118,6 +118,8 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 
 | 29 | 2026-07-08 | Entry 25: Vardø-9 (FOURTH INVENTED; Fable). Station on nonexistent islet reports 3 yrs after evacuation; "origin unattributed"; reports verify BETTER than real stations (no human scatter — "the reports balance"); last transmission 14 Sept 1960 = Dutch Harbor day, "the relief has come"; final position on 168°W; folder VII's ONLY concordance x-ref = this entry. Rupes Nigra (entry 24) drafting via Sonnet — review+commit next session. NOTE: file order is 05-rupes-nigra (24), 06-vardo (25); fn: RN 45–46, V9 47–48 | 32,432 measured (113pp) |
 
+| 30 | 2026-07-08 | Entry 26: "On Appointments" — PART III COMPLETE (6 entries). Appointment = reconciliation; the DIFFERENCE COLUMN is conserved — errors transferred, not killed; walls maintained BECAUSE accounts must balance; ADMISSION 1: T.'s first letter 1974 quoted ("You have been reading the difference column... Most stop at the sum") — Atlas = correspondence course, Voss its student not author; ADMISSION 2: BLUE NOTEBOOK = ledger of her own differences, entered against her own name; folder VII "not missing — OUT, borrower's name in the register, due date 14 September" | 35,655 measured (125pp) |
+
 ## ENTRY-COUNT CANON (REVISED session 28): index=34, printed=33.
 Parts: I=12, II=8, III=6 (21 TA, 22 OPS, 23 Frisland, 24 Rupes Nigra,
 25 Vardø-9 invented station, 26 interlude "On Appointments"), IV=7 of
@@ -347,7 +349,21 @@ offer feels like an errand"; UNIDENTIFIED Vienna questioner (voice "neither
 young nor old" — same phrase as Mīzān clerks; is T.? is a clerk?); B— thread
 closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
-## PART III: WATERS & POLES — "the kept appointments" (Voss's syllabus)
+## PART IV PLAN (next): "THE BLANK QUARTER" — Voss's own six + missing Meridian
+
+Sequence: Bergen interstitial FIRST (Marsh at the storage unit: shelf audit,
+folder VII dust-gap evidence, something found — the first T. letter? a key?
+Halter pressure escalates — unit visited before her?). Then Part IV title +
+entries 27–32 (six Voss discoveries, all invented, growing stranger; NO
+archival correlates — these are hers), then Editor's Afterword + appendices
+(incl. Marsh's own first entry as final appendix, per swerve design; Voss's
+"zones" passage promised at Kong fn must appear in appendices).
+Part IV canon to honor: blue notebook = her difference ledger; folder VII
+"out, due 14 Sept"; the house/ledger/premises; "the doors are labelled";
+Meridian = the bank?; T.'s 1974 first line. Entries 27+ footnotes start 47?
+NO — Vardø used 47–48; Part IV starts at 49.
+
+## PART III: WATERS & POLES — "the kept appointments" (Voss's syllabus) — COMPLETE
 
 Target ~7 entries, richer present-day thread per quality directives.
 Roster (draft): 21 Terra Australis (the greatest promise; Cook's demolition;
