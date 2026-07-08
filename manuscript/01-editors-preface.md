@@ -54,7 +54,7 @@ eighty-eight years old. She told the skipper she wished to verify a depth
 sounding. The vessel returned; she did not. The official finding was death by
 misadventure at sea. Her body was not recovered.
 
-Second: her final index lists thirty-four entries. I found thirty-three. The
+Second: her final index lists thirty-three entries. I found thirty-two. The
 missing entry — folder VII of the Bergen unit, according to her own
 concordance — concerns a place she calls **Meridian**. I have found the name
 in her marginalia one hundred and eighteen times. I have found it on no map,
@@ -85,7 +85,7 @@ A note on method, briefly, for my colleagues, who will be looking for
 something to disapprove of: all quotations from primary sources have been
 verified against the originals except where noted; coordinates are given as
 Voss gave them, even where they drift[^2]; translations are Voss's unless
-attributed. The thirty-three entries are complete. Nothing has been omitted.
+attributed. The thirty-two entries are complete. Nothing has been omitted.
 
 One thing has been added. It is the last item in the appendices, and it is
 mine, and I ask the reader — as Voss once asked me, in a different context,
