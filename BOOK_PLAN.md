@@ -95,6 +95,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 8 | 2026-07-08 | Entry 6: Crocker Land (Peary's composed phantom; 1914 Fata Morgana; Piugaattoq; ink anomaly fn 14 — brown ink on 1983 ticket) | ~11,100 |
 | 9 | 2026-07-08 | Entry 7: Aurora Islands (multiple-witness problem; Atrevida survey 1794; Weddell; Poe coda; folder tied w/ string marked "practice") | ~12,400 |
 | 10 | 2026-07-08 | Entry 8: Buss Island (the drowned phantom; "errors are networks"; maintenance contract; HBC docket "not for stations" echoes Grimsholm) | ~13,700 |
+| 11 | 2026-07-08 | Entry 9: Dougherty & Emerald diptych (errors of need; Davis's 4,240 m CONTROL against the depth band; "currency"/"then what is the bank") | ~15,100 |
 
 ## Continuity notes (check each session)
 
@@ -156,6 +157,18 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   Marsh's fn 18: "Institutions do not share marginalia. Categories do."
   This phrase is becoming the institutional fingerprint of the category-
   keepers; connect to T./the bureau idea in Part IV. Use at most once more.
+- **Depth-band CONTROL** (Dougherty): Davis's 4,240 m is deliberately outside
+  the band; Voss kept it as her control ("Some islands are only lonely eyes").
+  This inoculates the pattern against being cheap. Not every phantom is
+  "stowed" — only some. Part IV can use this: the band selects WHICH phantoms
+  are deposits.
+- **"Then what is the bank"** — Voss margin note (Emerald, fn 20), no question
+  mark. Currency/bank/deposit metaphor now: stowed, deposit, maintenance
+  contract, currency, bank. The bank = Meridian? Part IV payoff.
+- Footnotes: ...Buss 17–18; Dougherty/Emerald 19–20; next starts 21.
+- Entry 9 closing teases the audit: entry 10 = annexed sight unseen (Sarah
+  Ann); entry 11 = "an island I can no longer discuss in footnotes" (the
+  second invented one, silent-footnote gambit); entry 12 = Voss interlude.
 - **"Practice"** — word on the string-tied Aurora folder (fn 16). Unexplained.
   Late-book payoff idea: the Auroras were Voss's (or T.'s?) test/rehearsal —
   connect to "the Atrevida was the exception, and exceptions are invitations."
