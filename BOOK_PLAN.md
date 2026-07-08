@@ -97,6 +97,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 10 | 2026-07-08 | Entry 8: Buss Island (the drowned phantom; "errors are networks"; maintenance contract; HBC docket "not for stations" echoes Grimsholm) | ~13,700 |
 | 11 | 2026-07-08 | Entry 9: Dougherty & Emerald diptych (errors of need; Davis's 4,240 m CONTROL against the depth band; "currency"/"then what is the bank") | ~15,100 |
 | 12 | 2026-07-08 | Entry 10: Sarah Ann (guano-act deed; 1937 eclipse audit; "every phantom dies of an appointment" = unnumbered 4th law; doctored clipping fn 22) | ~16,400 |
+| 13 | 2026-07-08 | Entry 11: Isla del Coro (SECOND INVENTED; auditory phantom; ZERO footnotes — silent gambit; Voss's 1981 first-person passage addresses "Elena" by name; 1,240 m) | ~17,600 |
 
 ## Continuity notes (check each session)
 
@@ -176,6 +177,13 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   ladder: can't find sources (Grimsholm) → sources altered upstream (Buss
   docket) → Voss's own copies diverge from verified originals (this). NEXT
   step (Part III/IV): documents change AFTER Marsh has verified them.
+- **Isla del Coro key beats:** heard not seen; "the fog is the gap under the
+  door"; ends-all-at-once sound; Voss's 1981 fruit-boat vigil ARRANGED BY T.;
+  notebook passage addresses "Elena" directly (Voss wrote to her future
+  editor decades early — do not explain until Part IV); "somewhere the hours
+  are being kept." Entry has NO editor footnotes; Marsh's only intrusion is
+  the framing sentence. 1981 falls in the INK GAP decade — deliberate.
+- Footnotes: Sarah Ann ended at 22; Coro adds none; next entry starts 23.
 - Entry 9 closing teases the audit: entry 10 = annexed sight unseen (Sarah
   Ann); entry 11 = "an island I can no longer discuss in footnotes" (the
   second invented one, silent-footnote gambit); entry 12 = Voss interlude.
