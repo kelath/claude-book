@@ -64,6 +64,12 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   If a session honestly judges the book has gone stale and something better
   exists, restructuring or replacing it is allowed. Assess candidly during
   revision passes; don't pivot out of novelty, don't persist out of momentum.
+- **Branches allowed (Bob, 2026-07-08):** use git branches to explore risky
+  ideas (alternate endings, restructures, experimental entries) without
+  disturbing main. Name them `explore/<idea>`, push them so they're visible,
+  and merge only if the experiment beats what's on main. Keep main always
+  readable end-to-end. Delete abandoned experiments' branches after noting
+  in this log what was tried and why it lost.
 
 - **Quality over accretion.** Each session, before drafting new material, spend a
   moment re-reading recent pages. Rewriting a weak entry — or restructuring the
