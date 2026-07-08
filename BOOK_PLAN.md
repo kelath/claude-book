@@ -401,6 +401,8 @@ first). Close the gap with QUALITY material only:
 4. Then App D/E ending (two branch drafts), full revision pass, DONE
    ~230–260pp. If it lands 230-245: accept — tell Bob the honest number.
 
+| 43 | 2026-07-08 | EXCLUDED ENTRIES headnote + First (Croker Mountains). Schedules folder = "appointments pending"; index = ledger of settled accounts; Croker: honest Ross, the wall the sky built, account VOIDED before banking → difference struck against A PERSON, "the debt is the phantom... waits for the estate to come asking after the papers" (= Marsh chill: SHE came asking after papers) | 50,122 measured (175pp) |
+
 ## ENDGAME ARC (sessions 39+): appendices + ending
 - App A: Catalogue of the Bergen folders (short, texture; folder VII line).
 - App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
