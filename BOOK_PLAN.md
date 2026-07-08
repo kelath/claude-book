@@ -107,6 +107,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 17 | 2026-07-08 | Entry 14: Prester John (the kingdom that answered letters; Philip the papal carrier delivered WITH the letter; Ethiopia signs the phantom's mail; fn 25 — T. letters were all HAND-DELIVERED; fn 26 — "information about the address") | 17,030 measured (59pp) |
 | 18 | 2026-07-08 | Entry 15: El Dorado (sign reversed: deposit→vault; FIFTH LAW — phantoms migrate up the category chain; Guatavita = teller's window, account FROZEN 1912; "we have the sign reversed on every chart but this one"; teaser: next file SEALED) | 18,578 measured (65pp) |
 | 19 | 2026-07-08 | Entry 16: Mīzān (THIRD INVENTED; the Weighing Town; sealed file; "the toll is the weighing"; SIGN SOLVED = beam balance end-on; "entered against the house"; Voss weighed twice; Marsh starts keeping her own figures; fn 29 folio 214 "the account is current") | 19,902 measured (69pp) |
+| 20 | 2026-07-08 | Entry 17: Island of California (truth dispossessed — correction is not a ratchet; market-secreted error; Kino's shells; killed by DECREE 1747; Milanese 1849 strait sounding 680 fathoms = 1,244 m — fn 32) | 21,270 measured (74pp) |
 
 ## Continuity notes (check each session)
 
@@ -254,6 +255,17 @@ session for true counts; log MEASURED numbers, not estimates.
   ladder stage 4: archives updating around her).
 - **"The house"** — new entity alongside the bank: differences are entered
   against the house. Who is the house? Part IV question; T. may serve it.
+- **Milanese atlas of 1849 now ×2** (Passo del Coro; the only post-decree
+  island-California WITH a strait sounding, 680 fm = 1,244 m). The Milanese
+  engraver is becoming a hidden correspondent across entries — candidate
+  identity: an earlier holder of Philip's office / a previous Voss. Part III
+  or IV should name him. Braidense copy is Marsh's access point.
+- California beats: "correction is not a ratchet" (truth dispossessed
+  1602–1747); market-secreted error; killed only by sovereignty (paper vs
+  paper); "unwatered and unconsulted, bearing its blue shells."
+- Footnotes: California 31–32; next starts 33. Marsh tone check: fn 31's
+  "report verification the way a nervous man reports his pulse" = the
+  plateau's hairline crack; keep next entry's apparatus cool.
 - **QUALITY-FIRST RESTRUCTURE (per Bob):** Parts II–III trimmed from 12+10
   to ~8+7 entries — only the ones that advance both geography AND mystery.
   Part II roster (8): Kong ✓; Prester John (kingdom that answered letters);
