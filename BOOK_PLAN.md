@@ -361,6 +361,8 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 36 | 2026-07-08 | Entry 31: The Shelf (BAND REVEALED: the tool-shelf of the audit — phantoms ARE the instruments, "shallow enough to reach, deep enough that nobody idle fingers them"; 1973 Njord grapnel/sounding lead w/ the sign, "gear returned"; fouling logs = the difference column that DREW T.'s 1974 letter — chronology complete; Voss "fetched, as a tool is fetched"; SECOND WEIGHING 2018 chemist's scale, ticket "DIFF. CARRIED FORWARD"; fn 53: Marsh's tickets print one line "still being compiled") | 43,717 measured (153pp) |
 
+| 37 | 2026-07-08 | Entry 32: The Approaches — LAST VOSS ENTRY (13 Sept 2019, Dutch Harbor). Sailing-directions form; 168°W = "the meridian of clean air... the purest error... soundest ground to build a door on"; errand = DEPOSIT of the difference column ("They do not want us. They want the differences"); "The tools go back on the shelf"; chose Marsh by the cliffs test; "leave the light on — it is so the shelf can see the room"; ONE marked lie; fn 54 inquest: coat folded/boots squared; the GREY BERGEN PEBBLE returned to the hotel desk — Voss entered into the FIXTURES; black stone = STOCK, "the house's to lend" | 45,082 measured (158pp) |
+
 ## PART IV ROSTER (locked session 32): entries 27–32, fn from 49
 
 27 The Anchorage ✓ (1982; the roads; receipts). 28 "The Carrier" (Tórshavn,
