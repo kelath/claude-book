@@ -109,6 +109,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 19 | 2026-07-08 | Entry 16: Mīzān (THIRD INVENTED; the Weighing Town; sealed file; "the toll is the weighing"; SIGN SOLVED = beam balance end-on; "entered against the house"; Voss weighed twice; Marsh starts keeping her own figures; fn 29 folio 214 "the account is current") | 19,902 measured (69pp) |
 | 20 | 2026-07-08 | Entry 17: Island of California (truth dispossessed — correction is not a ratchet; market-secreted error; Kino's shells; killed by DECREE 1747; Milanese 1849 strait sounding 680 fathoms = 1,244 m — fn 32) | 21,270 measured (74pp) |
 | 21 | 2026-07-08 | Entry 18: Sea of the West (Delisle's DRAWER = quarantine protocol; curated error (hypothesis+hoax+pilot); Juan de Fuca promise redeemed — "the coast was listening"; Voss's EARLIEST card 1968: "what was the drawer FOR"; Atlas itself = a drawer, "notice whose hands it is in now") | 22,738 measured (79pp) |
+| 24 | 2026-07-08 | Entry 19: Saguenay + FIRST PRESENT-DAY INTERSTITIAL (Basel firm's 3 escalating offers for the papers, first arrived BEFORE cataloguing — "particular interest in unsorted correspondence"; villain pressure begins). Saguenay: ransom cartography; "bank of last resort of the powerless"; faux diamants; fn 36 sets up Entry 20 = Voss's 1988 symposium paper "On Walls" WITH the room's response | 24,045 measured (84pp) |
 
 ## STORY-QUALITY DIRECTIVES (from session-22 self-review vs Bob's 10 criteria)
 
@@ -316,9 +317,16 @@ session for true counts; log MEASURED numbers, not estimates.
   the Atlas may be the plot's triggering act, Part IV); Voss's earliest
   card (1968): "You do not build a drawer that strong for a thing you
   believe to be false." Off-band figures continue honestly (Puget 280 m).
-- Part II remaining: Entry 19 Saguenay (testimony-only kingdom, told to
-  Cartier; Donnacona taken to France, died there; kingdom of blond men);
-  Entry 20 = Voss interlude "On Walls" closes Part II. Then Part III.
+- Part II remaining: Entry 20 = "On Walls" closes Part II — NOW REFRAMED
+  (fn 36): it's Voss's 1988 symposium paper, the ONLY entry delivered aloud,
+  "to lasting scandal"; include the room's response (Q&A transcript
+  fragment? — form variety). Content: what walls are for; don't restate laws;
+  extend. The 1971 hostile referee may have been IN the 1988 room.
+- **Basel firm** (interstitial, unnamed yet) = the collector's vehicle;
+  first offer predated cataloguing = buyer already knew about the T. letters.
+  Name the buyer mid-Part III (working: Anselm Küfer). Marsh line planted:
+  "less a book I am editing than a thing I am holding" (drawer echo).
+- Footnotes: Saguenay 35–36; next starts 37.
 - **QUALITY-FIRST RESTRUCTURE (per Bob):** Parts II–III trimmed from 12+10
   to ~8+7 entries — only the ones that advance both geography AND mystery.
   Part II roster (8): Kong ✓; Prester John (kingdom that answered letters);
