@@ -4,16 +4,14 @@
 leagues about, ringed by an indrawing sea. Charted 1569–c. 1700.
 Every compass on earth pointed at it daily.**
 
-It is the deadliest error in the history of maps, and Voss's file on
-it is the angriest in the papers. Not deadliest by body count — Terra
-Australis alone cost more men than the pole ever drowned — but
-deadliest in kind, because for a century and a half it told sailors
-where the ice would let them through, and the ice did not read maps.
-The Rupes Nigra is also, of this Atlas's whole company of promises
-kept and broken, the one furnished with the least evidence and the
-most confidence: a rock no one measured, on an island no one reached,
+It is the best-attested place in this Atlas that nobody ever claimed
+to have seen. Of the whole company of promises kept and broken, the
+Rupes Nigra is the one furnished with the least evidence and the most
+confidence: a rock no one measured, on an island no one reached,
 reported by a source that no longer exists, citing a source that no
-longer existed even then.
+longer existed even then — and for all that, it possessed what no
+other phantom here can boast, a permanent, planet-wide instrument
+dedicated to its worship.
 
 The geography, as it stood on the best charts of Europe for two
 hundred years, was tidy to the point of theology. At the pole: a
@@ -98,7 +96,8 @@ into atlas after atlas for a century. It is, by any measure of
 influence, one of the most successful maps ever made of a place that
 was not there.
 
-    IV: Belief moves at the speed of copying. Doubt moves at the
+    IV: I set it down at Sandy Island and the pole is where I first
+    learned it: belief moves at the speed of copying, doubt at the
     speed of embarrassment. A map is reprinted the year after it
     appears; a correction is reprinted a generation after it is
     proven, and only once the men who signed the original are safely
