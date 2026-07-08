@@ -105,6 +105,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 15 | 2026-07-08 | Revision (sixty→seventy) + make-book.sh + calibration | 13,968 measured |
 | 16 | 2026-07-08 | PART II opens. Entry 13: Mountains of Kong (error of the argument; wall that guards its own counter-evidence; Binger's walk; PASSO DEL CORO in 1849 Milanese atlas — fn 24 links to Isla del Coro; "we catalogued the walls") | 15,603 measured (54pp) |
 | 17 | 2026-07-08 | Entry 14: Prester John (the kingdom that answered letters; Philip the papal carrier delivered WITH the letter; Ethiopia signs the phantom's mail; fn 25 — T. letters were all HAND-DELIVERED; fn 26 — "information about the address") | 17,030 measured (59pp) |
+| 18 | 2026-07-08 | Entry 15: El Dorado (sign reversed: deposit→vault; FIFTH LAW — phantoms migrate up the category chain; Guatavita = teller's window, account FROZEN 1912; "we have the sign reversed on every chart but this one"; teaser: next file SEALED) | 18,578 measured (65pp) |
 
 ## Continuity notes (check each session)
 
@@ -225,6 +226,23 @@ session for true counts; log MEASURED numbers, not estimates.
   (incl. Reykjavík '74, Veracruz '10, Aleutians '19), 60 hand-carried.
 - "It is information about the address" (fn 26) — Marsh's turn from fearing
   T. to studying the address itself; sets up her Part IV decision.
+- **FIFTH LAW** (El Dorado): "a phantom under pursuit moves its CATEGORY,
+  not just its position — man→city→lake, each audit answered with a
+  forwarding address one ontological floor up." Laws now: 1 promise,
+  2 outlived weather, 3 migratory don't die, (4 unnumbered: appointments),
+  5 category-migration. Interlude "On Walls" (end Part II) should NOT
+  restate all — just extend.
+- **El Dorado = thematic keystone:** the sign reversal (deposit read as
+  vault) is THE key to the whole book: phantom places aren't withdrawals
+  that failed, they're deposits working correctly. Guatavita the one chart
+  with the sign right. Part IV/Meridian must pay this off: Meridian = the
+  bank; Voss went to make a deposit?? (herself? the blue notebook?)
+- **Next entry teased as SEALED file** (E.M. bracket at end of El Dorado):
+  Entry 16 = Island of California (error by decree — sealed by royal order?
+  no—) Better: the SEALED file suits the third invented entry. REORDER:
+  do invented entry next ("the Weighing Town"?) as the sealed file, then
+  California, Sea of the West, Saguenay, interlude. Part II roster stays 8.
+- Footnotes: El Dorado 27–28; next starts 29.
 - **QUALITY-FIRST RESTRUCTURE (per Bob):** Parts II–III trimmed from 12+10
   to ~8+7 entries — only the ones that advance both geography AND mystery.
   Part II roster (8): Kong ✓; Prester John (kingdom that answered letters);
