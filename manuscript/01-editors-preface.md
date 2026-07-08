@@ -62,7 +62,7 @@ in no gazetteer, in no archive I have consulted, and I have consulted, at this
 point, nearly all of them.
 
 Third: among her papers was a bundle of correspondence, seventy-one letters
-spanning forty years, all from the same hand, all signed with the single
+spanning forty-five years, all from the same hand, all signed with the single
 initial **T.** The letters respond to questions of Voss's that I do not have.
 The earliest is postmarked Reykjavík, 1974. The latest is postmarked from a
 town in the Aleutians, ten days before she disappeared. It consists of one

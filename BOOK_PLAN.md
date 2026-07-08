@@ -80,6 +80,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 4 | 2026-07-08 | Entry 3: Saint Brendan's Isle (Jasconius; migratory phantom; Third Law; circle-divided-by-line sign; "displacement is the signature") | ~7,000 |
 | 5 | 2026-07-08 | Entry 4: Bermeja (oil-rights phantom; 1,190 m sounding pays off "stowed"; T.'s "rust" letter #43; Marsh's 4 a.m. footnote, her avg 1,236 m) | ~8,200 |
 | 6 | 2026-07-08 | Entry 5: Grimsholm (FIRST INVENTED ISLAND; furnished cairn w/ the sign; "not for stations"; 1,205 m; Marsh can't source the file — fn 12) | ~9,600 |
+| 7 | 2026-07-08 | REVISION PASS Part I: fixed preface "forty"→"forty-five years" (T. letters 1974–2019); verified sign x-refs, depth band, inks, notebooks. Added pacing rule below. | ~9,600 |
 
 ## Continuity notes (check each session)
 
@@ -120,6 +121,16 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   Marsh's fn 12: no shelfmarks exist; "the same possibility phrased at two
   different depths." Grimsholm should RECUR in Part IV (Meridian material).
 - Footnotes: ...Bermeja 9–10; Grimsholm 11–12; next starts 13.
+- **PACING RULE (from session-7 revision):** Marsh's footnote arc escalated
+  fast in Part I (fn 10 four-a.m. confession, fn 12 crisis). In Parts II–III,
+  PLATEAU: return her to scholarly restraint with only occasional hairline
+  cracks; no new confessions until late Part III. Reserve full unravelling
+  for Part IV. Also ration the phrase "third place" (≈6 uses so far — plenty
+  until Part IV) and the depth motif (mention sparingly in Part II).
+- **Ink chronology:** brown ink pre-1980, black post-1990. The 1980s gap is
+  unexplained — keep it; could become a plot point (decade of silence?).
+- **Entry-count math:** index = 42; printed = 41 (Meridian/folder VII missing).
+  Parts: I=12, II=12, III=10, IV=8 (of which Meridian is the absent one) = 42.
 
 ## Next up
 
