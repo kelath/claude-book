@@ -78,6 +78,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 2 | 2026-07-08 | Part I title page + Entry 1: Hy-Brasil ("type specimen"; plants First Law, Meridian in brown ink, Marsh's "condition" footnote) | ~4,100 |
 | 3 | 2026-07-08 | Entry 2: Sandy Island (2012 undiscovery; ship's-log fragment; Second Law; "stowed" note + seen/sounded list, avg 1,240 m) | ~5,500 |
 | 4 | 2026-07-08 | Entry 3: Saint Brendan's Isle (Jasconius; migratory phantom; Third Law; circle-divided-by-line sign; "displacement is the signature") | ~7,000 |
+| 5 | 2026-07-08 | Entry 4: Bermeja (oil-rights phantom; 1,190 m sounding pays off "stowed"; T.'s "rust" letter #43; Marsh's 4 a.m. footnote, her avg 1,236 m) | ~8,200 |
 
 ## Continuity notes (check each session)
 
@@ -102,15 +103,21 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
   sign travels with the copyists or with the island." Recur sparingly.
 - **"The displacement is the signature"** — Voss's load-bearing phrase; recurs
   on an index card with the Bermeja materials, underlined three times.
-- Footnotes: preface 1–2; Hy-Brasil 3–4; Sandy 5–6; Brendan 7–8; next starts 9.
+- Footnotes: preface 1–2; Hy-Brasil 3–4; Sandy 5–6; Brendan 7–8; Bermeja 9–10;
+  next starts 11.
+- **Depth motif established:** Voss's avg 1,240 m; Bermeja sounding 1,190 m;
+  Marsh's independent avg 1,236 m ("4 a.m." footnote 10). "What is placed in
+  the third place is placed at a depth, and the depth is conserved."
+- **T. letter #43** (Veracruz, Mar 2010): "Rust, Iris. Things kept in water
+  rust." Bermeja's redness = rust. T. letters are numbered — total is 71
+  (per preface). Keep numbering consistent when quoting more.
 
 ## Next up
 
-- Entry 4: "Bermeja" (Gulf of Mexico; vanished island with oil-rights stakes;
-  2009 UNAM survey; conspiracy theories incl. CIA-removal jokes Voss dismisses;
-  MUST pay off "stowed": sounded depth near the 1,240 m average, and the
-  index card with "the displacement is the signature" ×3 underlined).
-- Entry 5: first invented island — "Tethys Shoal" or similar, disguised among
-  real ones; Marsh's footnote fails to find any external source and says so
-  uneasily.
-- Consider a revision session at session ~7 per working principles.
+- Entry 5: first invented island — "Tethys Shoal" (or better name), disguised
+  among real ones; scholarly texture identical to real entries; Marsh's
+  footnote fails to find ANY external source for it and says so uneasily —
+  first direct evidence Voss wrote entries for places with no paper trail.
+- Entry 6: "Crocker Land" (Peary's 1906 arctic mirage; 1913 disaster
+  expedition; ties to mirage theme from Brendan).
+- Session ~7: revision pass over Part I so far (per working principles).
