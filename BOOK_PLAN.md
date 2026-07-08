@@ -351,7 +351,23 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 31 | 2026-07-08 | INTERLEAVED: BERGEN (Fable set-piece). Ledger: Voss's last visit 3/2019 "took one carton" but passport shows no travel after Jan; T.'s visit 4 Oct 2019 ("left the light on"); Halter court-order inspection photographed THE SHELVING; folder VII slot = DUST-FREE, MAINTAINED, with lending card: "VII. Out." + reverse in brown ink, Marsh's name in full: "When the book is finished, bring it; you know the meridian; decline if you can. — T." = THE FIRST OFFER. One heir secretly dealing w/ Basel. Marsh decides: print the six, write afterword, let it come due | 36,796 measured (129pp) |
 
-## PART IV PLAN: "THE BLANK QUARTER" — Voss's own six + missing Meridian
+| 32 | 2026-07-08 | PART IV opens. Entry 27: The Anchorage (folder XXVIII; first-person Voss, 1982 m/s Herdis; the roads; eleven riding lights, two flames; "In the roads, Professor"; anchored in 1,241 m; log reads "hove to, no progress"; "Anchorage is free. The chart pays"; impossible noons = RECEIPTS; fn 49 the second officer: "Then it's her entry against ours") | 38,103 measured (133pp) |
+
+## PART IV ROSTER (locked session 32): entries 27–32, fn from 49
+
+27 The Anchorage ✓ (1982; the roads; receipts). 28 "The Carrier" (Tórshavn,
+"the usual place"; how the letters move; Voss meets a holder of Philip's
+office — NOT T.; the office described). 29 "The Second Sight of Brasil"
+(return to Aran; the seven-year showing; she refuses to land — declining
+her own first offer, learning what it feels like). 30 "Grimsholm, Again"
+(the landing; the cairn accepts her stone; THE FIRST WEIGHING). 31 "The
+Shelf" (the band explained: 1,240 m = the shelf where the working stock is
+kept — 'the depth is conserved' doctrine completed; the SECOND WEIGHING —
+Mīzān fn said weighed twice). 32 "The Approaches" (last entry; everything
+about reaching Meridian except Meridian; ends with her packing the blue
+notebook; reads as written the night before Dutch Harbor). Then: Editor's
+Afterword; Appendices (zones passage from Kong fn; gazetteer; MARSH'S OWN
+FIRST ENTRY as final appendix + ending swerve TBD on explore/ branches).
 
 Sequence: Bergen interstitial FIRST (Marsh at the storage unit: shelf audit,
 folder VII dust-gap evidence, something found — the first T. letter? a key?
