@@ -81,6 +81,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 5 | 2026-07-08 | Entry 4: Bermeja (oil-rights phantom; 1,190 m sounding pays off "stowed"; T.'s "rust" letter #43; Marsh's 4 a.m. footnote, her avg 1,236 m) | ~8,200 |
 | 6 | 2026-07-08 | Entry 5: Grimsholm (FIRST INVENTED ISLAND; furnished cairn w/ the sign; "not for stations"; 1,205 m; Marsh can't source the file — fn 12) | ~9,600 |
 | 7 | 2026-07-08 | REVISION PASS Part I: fixed preface "forty"→"forty-five years" (T. letters 1974–2019); verified sign x-refs, depth band, inks, notebooks. Added pacing rule below. | ~9,600 |
+| 8 | 2026-07-08 | Entry 6: Crocker Land (Peary's composed phantom; 1914 Fata Morgana; Piugaattoq; ink anomaly fn 14 — brown ink on 1983 ticket) | ~11,100 |
 
 ## Continuity notes (check each session)
 
@@ -132,14 +133,27 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 - **Entry-count math:** index = 42; printed = 41 (Meridian/folder VII missing).
   Parts: I=12, II=12, III=10, IV=8 (of which Meridian is the absent one) = 42.
 
+- **Ink anomaly** (Crocker fn 14): bearing "CTH 337° true" in BROWN ink on
+  Voss's 1983 reader's ticket — brown ink went out of use ~1980. First hard
+  hint the ink chronology misbehaves. Do NOT explain soon; Part IV material.
+- Footnotes: ...Grimsholm 11–12; Crocker 13–14; next starts 15.
+
 ## Next up
 
-- Session 7: **revision pass** over Part I so far (per working principles):
-  re-read preface + entries 1–5 for continuity, prose tightness, over-repetition
-  (watch: "third place" frequency, footnote-voice drift arriving too fast).
-- Then Entry 6: "Crocker Land" (Peary's 1906 arctic mirage; 1913 disaster
-  expedition; Fata Morgana ties to Brendan mirage theme).
-- Then Part I remaining candidates: Buss Island, Saint Matthew Island (Atlantic),
-  Aurora Islands, Dougherty Island, Emerald Island, Sarah Ann, second invented
-  entry late in Part I or none until Part II. Not all — pick ~4-5 best + close
-  Part I with a short Voss interlude ("On the Uses of Islands").
+Part I remaining (target 12 entries total; have 6). Chosen final six:
+- Entry 7: "The Aurora Islands" (S. Atlantic; sighted repeatedly 1762–1794 by
+  competent ships incl. the survey vessel Atrevida; hunted by Weddell; gone.
+  Multiple-witness problem — inverse of Crocker's single witness).
+- Entry 8: "Buss Island" (N. Atlantic; born 1578 Frobisher voyage; "sunken
+  land of Buss" — the only phantom given an official DROWNING as exit story).
+- Entry 9: "Dougherty & Emerald" (double entry; far-southern ocean phantoms;
+  whalers' islands seen for a century; the emptiest sea on earth).
+- Entry 10: "Sarah Ann Island" (Pacific guano-act phantom; USA legally CLAIMED
+  it sight unseen; eclipse expedition of 1937 hunts it for astronomy; gone).
+- Entry 11: second invented entry — "Isla del Coro" or similar (small, quiet,
+  Caribbean or Pacific; this time NO Marsh footnote doubting it — she lets one
+  pass in silence; attentive readers notice the silence).
+- Entry 12 / Part I close: Voss interlude "On the Uses of Islands" (short
+  essay, no footnotes, first-person Voss; states Laws 1–3 together; teases
+  the question Part II answers: what happens when the phantom is INLAND and
+  cannot be dissolved by sounding).
