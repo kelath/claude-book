@@ -110,8 +110,9 @@ the Mountains of Kong and defy the reader to finish comfortably;
 a short gazetteer of phantoms for which Voss's index made no room;
 and a last item, which is not Voss's, and not properly an
 appendix, and which the reader of the preface was promised on the
-first pages of this book, in a sentence I wrote two years ago and
-have not had the courage to reread until tonight: that one thing
+first pages of this book, in a sentence I set down when this
+edition still felt to me like scholarship, and have not had the
+courage to reread until tonight: that one thing
 had been added, and it was mine, and judgement should be withheld
 until the evidence was seen.
 

@@ -373,17 +373,25 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 Projected finish at current scope ≈ 180pp; Bob's range 250–300 (quality
 first). Close the gap with QUALITY material only:
-1. EXPANSION: 3 full Part III entries (all gazetteer-graduates with real
-   depth): Croker Mountains (Ross/Parry; flattery + refraction; ruined
-   career), Thompson Island (escaped both ledgers; "no third column"),
-   María Theresa Reef (the last working phantom; modern charts; Verne).
-   Insert as entries 24–26 before Rupes Nigra → RENUMBER Part III/IV
-   entries (Rupes 24→27 ... Approaches 32→35), preface counts 33/32→36/35,
-   interlude "twenty-six entries"→"twenty-nine", Approaches "thirty-one
-   entries"→"thirty-four", App A folders — new entries carry NO editor
-   footnotes (avoids fn renumber cascade; justify: "prepared for print
-   before leaving," apparatus withheld). Trim gazetteer's Croker/Thompson/
-   María Theresa cards to one-line "see Entry NN" pointers.
+1. EXPANSION — REVISED DESIGN (session 42 review): **"The Excluded
+   Entries."** No insertion, NO renumber cascade. In-world: Marsh finds,
+   interleaved in folder XXVI ("Schedules"), three COMPLETED entries that
+   Voss wrote but her index declined. Marsh prints them as an unnumbered
+   section between Part III's interlude and Part IV, with a headnote
+   asking the reader's question: why did the index refuse them? Answer
+   (Marsh's conjecture, stated in headnote): **the index admits only
+   closed accounts — these three are OPEN.** Croker Mountains (an error
+   that died faster than its flattery — account closed too FAST to bank);
+   Thompson Island (escaped both ledgers — "no third column for the
+   free"; the one hint of freedom before the ending); María Theresa Reef
+   (still on charts — a working instrument, account CURRENT). Zero
+   editor footnotes (headnote: apparatus withheld, as with the Blank
+   Quarter). Entry headers unnumbered ("The First Excluded Entry" etc.).
+   Gazetteer cards for these three trim to one-line pointers ("printed
+   following Part III"). App A: one clause added to folder XXVI line.
+   Preface counts UNCHANGED (index still 33; these are extra-index).
+   This turns a page-count chore into a plot device: the exclusions
+   characterize the index itself.
 2. APPENDIX: "The Eleven Postmarked Letters" (T. to I.V., 1974–2019) —
    the 60 carried letters stay restricted (consistent w/ App A); the 11
    postmarked ones printed. Epistolary set-piece, ~8pp. Insert as new
