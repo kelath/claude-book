@@ -116,6 +116,8 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 
 | 28 | 2026-07-08 | INTERLEAVED: MILAN (set-piece, Fable). Braidense reply: house of SALTERIO; 3 northern plates "ceduti" to unnamed buyer; balance mark as engraver's device; register shows I. Voss 1969 AND "T. SALTER" March 2019. RED HERRING LIVE: fabrication thesis stated in full, Marsh believes 3 days, killed by arithmetic (T. Salter line, pre-catalogue offer, pre-survey bathymetry). VILLAIN NAMED: Halter & Cie, Basel; 4th offer; "the client would wish you kept also." Marsh going to Bergen; unit paid through 2031 from Basel. FIXED: preface 42/41→34/33 (structure: I:12+II:8+III:6+IV:7+Meridian missing=34) | 31,199 measured (109pp) |
 
+| 29 | 2026-07-08 | Entry 25: Vardø-9 (FOURTH INVENTED; Fable). Station on nonexistent islet reports 3 yrs after evacuation; "origin unattributed"; reports verify BETTER than real stations (no human scatter — "the reports balance"); last transmission 14 Sept 1960 = Dutch Harbor day, "the relief has come"; final position on 168°W; folder VII's ONLY concordance x-ref = this entry. Rupes Nigra (entry 24) drafting via Sonnet — review+commit next session. NOTE: file order is 05-rupes-nigra (24), 06-vardo (25); fn: RN 45–46, V9 47–48 | 32,432 measured (113pp) |
+
 ## ENTRY-COUNT CANON (REVISED session 28): index=34, printed=33.
 Parts: I=12, II=8, III=6 (21 TA, 22 OPS, 23 Frisland, 24 Rupes Nigra,
 25 Vardø-9 invented station, 26 interlude "On Appointments"), IV=7 of
