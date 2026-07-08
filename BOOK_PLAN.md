@@ -416,6 +416,35 @@ and pays Thompson + the collector + letter 62. CONSIDER HYBRID: B's spine
 reader-weighing passage (first offers come as books) as B already gestures.
 Judge fresh, merge winner, then final revision pass + assembly.
 
+## FRESH-EYES REVIEW ACTIONS (session 49; review scored 9/10 interest, 6.5/10 human)
+
+Priority order:
+1. **ENDING (next session):** build the hybrid on explore/ending-hybrid per
+   reviewer recipe: B's spine entire (warehouse, stone, "No," nothing
+   happened, light off, Aran coda) + trim manifesto paragraph ~50% and
+   re-key from triumphant to desperate + graft A's meridian idea AS DOUBT
+   (she can't know if scattering beats recall or if publication IS the
+   delivery T. intended; prints both readings, won't tip scale) + close
+   with A's "Sign clearly on your way out." Merge to main.
+2. **BLOOD ADDITIONS (+~3k):** (a) new short "Interleaved: Her Coat" (or
+   similar) placed after entry 6 — Marsh on Voss the person: the teaching,
+   the dinners, the one friendship, what fifty years cost (concrete: a
+   broken engagement? sister? the college's view); (b) Marsh's own life
+   surfacing — what six years displaced (a person? a career track?); can
+   live inside 2-3 existing footnotes + one passage in the Bergen or Milan
+   interstitial. Also differentiate ONE minor character's voice (the Bergen
+   manager or Jespersen — make one of them ordinary/chatty, NOT oracular).
+3. **CUTS (within-entry, no canon surgery; target −4-5k):** halve Dougherty
+   & Emerald; compress Aurora + Buss middles (keep the docket + "practice");
+   compress TA (Quirós) and OPS (De Long) histories by ~30%; trim Croker
+   excluded entry by ~1/3; delete 2-3 depth-band winks (the smug fns:
+   "nothing to add that the reader has not already done," "the column I
+   know the reader is keeping" — keep at most one).
+   NOTE: reviewer wanted folds (Buss→Aurora); declined — canon surgery
+   risk + Bob's length floor. Within-entry cuts get most of the value.
+4. Final assembly + tic sweep + measured length report to Bob (honest
+   number likely ~175-190pp; quality > page target per Bob's directive).
+
 ## ENDGAME ARC (sessions 39+): appendices + ending
 - App A: Catalogue of the Bergen folders (short, texture; folder VII line).
 - App B: the "zones" passage from notebook IV (promised Kong fn 23) — Voss
