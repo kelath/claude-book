@@ -93,6 +93,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 6 | 2026-07-08 | Entry 5: Grimsholm (FIRST INVENTED ISLAND; furnished cairn w/ the sign; "not for stations"; 1,205 m; Marsh can't source the file — fn 12) | ~9,600 |
 | 7 | 2026-07-08 | REVISION PASS Part I: fixed preface "forty"→"forty-five years" (T. letters 1974–2019); verified sign x-refs, depth band, inks, notebooks. Added pacing rule below. | ~9,600 |
 | 8 | 2026-07-08 | Entry 6: Crocker Land (Peary's composed phantom; 1914 Fata Morgana; Piugaattoq; ink anomaly fn 14 — brown ink on 1983 ticket) | ~11,100 |
+| 9 | 2026-07-08 | Entry 7: Aurora Islands (multiple-witness problem; Atrevida survey 1794; Weddell; Poe coda; folder tied w/ string marked "practice") | ~12,400 |
 
 ## Continuity notes (check each session)
 
@@ -147,7 +148,10 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 - **Ink anomaly** (Crocker fn 14): bearing "CTH 337° true" in BROWN ink on
   Voss's 1983 reader's ticket — brown ink went out of use ~1980. First hard
   hint the ink chronology misbehaves. Do NOT explain soon; Part IV material.
-- Footnotes: ...Grimsholm 11–12; Crocker 13–14; next starts 15.
+- Footnotes: ...Grimsholm 11–12; Crocker 13–14; Aurora 15–16; next starts 17.
+- **"Practice"** — word on the string-tied Aurora folder (fn 16). Unexplained.
+  Late-book payoff idea: the Auroras were Voss's (or T.'s?) test/rehearsal —
+  connect to "the Atrevida was the exception, and exceptions are invitations."
 
 ## Next up
 
