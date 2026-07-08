@@ -357,6 +357,8 @@ closed cleanly (deliberate anti-paranoia beat — not everything connects).
 
 | 34 | 2026-07-08 | Entry 29: The Second Sight of Brasil (Inishmore 1991; the island DISCLOSED — curtain/wall; "competence" as the seduction; the boatman's unlit lantern = resistible first offer; "not tonight"; the nod confirming delivery; showing = a SERVICE with ridership; fn 51: schedule 1998/2005/2012/2019 (Dutch Harbor year!) → next sailing 2026 = PUBLICATION YEAR, set innocently by paper supply) | 40,770 measured (143pp) |
 
+| 35 | 2026-07-08 | Entry 30: Grimsholm, Again (Raufarhöfn 2003; "take a stone from your own ground"; sound longer inside than the island is wide; cairn = the manifest, 341 stones; stone on the plate = FIRST WEIGHING — questions CLOSED not answered; iron thread unified (ink/cliffs/tongue/rust = "the metal that remembers water"); 1,205 m "not a measurement — a registration"; fn 52: THE BLACK PEBBLE in Marsh's pocket, "For the successor. Return if declining.") | 42,102 measured (147pp) |
+
 ## PART IV ROSTER (locked session 32): entries 27–32, fn from 49
 
 27 The Anchorage ✓ (1982; the roads; receipts). 28 "The Carrier" (Tórshavn,
