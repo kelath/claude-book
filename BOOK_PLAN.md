@@ -111,6 +111,7 @@ Each entry: ~1,800–2,600 words. Footnotes threaded throughout carry the Marsh 
 | 21 | 2026-07-08 | Entry 18: Sea of the West (Delisle's DRAWER = quarantine protocol; curated error (hypothesis+hoax+pilot); Juan de Fuca promise redeemed — "the coast was listening"; Voss's EARLIEST card 1968: "what was the drawer FOR"; Atlas itself = a drawer, "notice whose hands it is in now") | 22,738 measured (79pp) |
 | 24 | 2026-07-08 | Entry 19: Saguenay + FIRST PRESENT-DAY INTERSTITIAL (Basel firm's 3 escalating offers for the papers, first arrived BEFORE cataloguing — "particular interest in unsorted correspondence"; villain pressure begins). Saguenay: ransom cartography; "bank of last resort of the powerless"; faux diamants; fn 36 sets up Entry 20 = Voss's 1988 symposium paper "On Walls" WITH the room's response | 24,045 measured (84pp) |
 | 25 | 2026-07-08 | Entry 20: On Walls — PART II COMPLETE (8 entries). Vienna 1988 paper + tape transcript; enclosure thesis ("we are the groundskeepers' heirs"); Q&A: B— = 1971 referee (thread closed CLEANLY — anti-paranoia beat); UNIDENTIFIED questioner ("neither young nor old"); "the post is offered TWICE... the second offer feels like an errand"; Dutch Harbor = the errand; Part III framed as "a syllabus" | 25,311 measured (88pp) |
+| 26 | 2026-07-08 | PART III opens. Entry 21: Terra Australis (secreted by SYMMETRY — the planet weighed; the 南 mortgage; Quirós first casualty; Cook's clean cancellation; 1820 promise KEPT — "the passenger was the same passenger"; fn 39 notebook X = brown ink AFTER 1980, ink-gap thread activated; fn 40 retires "load-bearing" in-world) | 26,766 measured (93pp) |
 
 ## STORY-QUALITY DIRECTIVES (from session-22 self-review vs Bob's 10 criteria)
 
@@ -345,6 +346,16 @@ Rebalance later; quality first.
 - Red herring build: rival thesis "Voss fabricated it all" — introduce via
   the doctoral student's estate? or a review of Marsh's project by a named
   scholar; must be persuasive; Marsh half-believes for 2–3 entries.
+- **Ink-gap thread ACTIVATED (fn 39):** notebook X begun "aboard, Hobart to
+  Lyttelton, 1979"; Voss crossed the southern ocean by freighter 4× in the
+  1980s = the quiet decade; brown ink appears in X after 1980 (so the ink
+  didn't retire — it went SOUTH with her). Where was she going? Part III
+  must answer ("Part III will have to do better than note it").
+- Terra Australis canon: "the great ones use the appointment to change
+  trains"; function over outline ("what else has been kept at the bottom of
+  a system, unvisited and load-bearing, so the visited parts may balance").
+- Footnotes: Terra Australis 39–40; next starts 41. "load-bearing" now
+  retired IN-WORLD (fn 40: "its last appearance in the papers").
 - **Basel firm** (interstitial, unnamed yet) = the collector's vehicle;
   first offer predated cataloguing = buyer already knew about the T. letters.
   Name the buyer mid-Part III (working: Anselm Küfer). Marsh line planted:
