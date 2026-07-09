@@ -85,17 +85,30 @@ into people, and people, Thompson Island whispers, might —
 might — be the black young country that nothing weighs.
 
 So I have made my deposit, and it is not in the fog on any
-meridian. It is here. Everything she found, everything they
-keep, the shelf, the band, the weighings, the doors, the whole
-private set of books — printed, public, unrecallable, in your
-hands and ten thousand hands like yours. Let them enter every
-reader in the great ledger if they can. I have watched the
-arithmetic of copying beat the arithmetic of embarrassment
-across five centuries of this Atlas, and I am betting the only
-thing I still own on a fourth column: that a truth sufficiently
-scattered can no more be called in than an island blown to sea-
-smoke can be sounded. She deposited herself. I have deposited
-the *secret*. We will see, in the long run, whose column holds.
+meridian. It is here — everything she found, everything they
+keep, the shelf, the band, the weighings, the doors — printed,
+public, unrecallable, in your hands and ten thousand hands like
+yours. That is my bet: that a truth sufficiently scattered can
+no more be called in than an island blown to sea-smoke can be
+sounded. It is not a good bet. I want that on the record too. I
+have laid the only thing I still own against the oldest house
+in the world, on the strength of one sealer's log and a folder
+that would not lie flat — and there are nights, this is one,
+when I can hear the other reading of my own evidence, plain as
+print. *Bring it; you know the meridian.* I have taken that
+sentence, all year, for a voyage I refused. But a meridian is a
+line drawn from clean air by agreement, real because enough
+people consent to steer by it, and there was never a better
+description of a readership. On the other reading, nothing was
+refused in that warehouse and nothing has scattered here: a
+book is brought to its meridian by publication, and this
+printing is not my escape but my errand — the placement, the
+delivery they asked of me from the beginning, performed the
+more perfectly for being performed in defiance. I cannot tell
+the two readings apart. I have tried for a year. Perhaps that
+is what it is to be a good instrument: to read true on either
+account. I print both, and I will not tip the scale. It was
+never mine to tip.
 
 The practicalities, for the estate I will someday leave. The
 papers stay public. The letters unseal in 2031; I will be
@@ -123,6 +136,8 @@ at my own desk, at the address where all my differences are
 banked. You know it. You are inside it. It has visiting hours.
 
 They are called reading.
+
+Sign clearly on your way out.
 
 — E.M.
 
