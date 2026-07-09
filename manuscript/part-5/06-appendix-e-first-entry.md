@@ -116,10 +116,17 @@ fifty-six; I have marked the date in my diary in ordinary ink.
 The light in Bergen I paid up for a year and then, on the
 morning I left, I asked the manager to turn it off. He looked
 at me for a long time — the fathom, the kindness — and he said,
-"It's your shelf now, one way or the other," and I said yes,
-and it is off. The room can see the shelf. That is the other
-arrangement, and nobody ever said it was forbidden. Only that
-it was dark.
+"It's your shelf now, one way or the other," and then he ruined
+it, thank God, by complaining at length about the new invoicing
+software and asking me to mind the loose step on the way down,
+because he is not an oracle; none of them were; he is a man who
+manages a warehouse, and the fathom in his kindness may only
+ever have been the ordinary deep patience of people who work
+alone among other people's kept things. I have made them all
+strange, I think, by the company I bring. Put that in the
+record too. The light is off. The room can see the shelf. That
+is the other arrangement, and nobody ever said it was
+forbidden. Only that it was dark.
 
 My scale ticket this morning printed one line. I expect one
 line tomorrow. I have stopped checking the day after; a woman

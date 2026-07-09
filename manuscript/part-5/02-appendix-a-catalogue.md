@@ -78,7 +78,8 @@ two companies' worth; the chemist's ticket).
 pebble; the barometer, which the estate let me buy, and which
 stands on my desk, and which I have never once tapped).
 
-**XXXIV.** Empty. Labelled, in her hand, in the brown ink:
-*For the successor's differences.* It is the only folder on the
-shelf that is not full, and the only one, I have come to
-understand, that was bought new.
+**XXXIV.** Labelled, in her hand, in the brown ink: *For the
+successor's differences.* I catalogued it in February as empty.
+The catalogue is out of date — the reader of the note that
+interrupts Part I knows its present contents — and it is the
+only folder on the shelf that was bought new.
