@@ -416,6 +416,8 @@ and pays Thompson + the collector + letter 62. CONSIDER HYBRID: B's spine
 reader-weighing passage (first offers come as books) as B already gestures.
 Judge fresh, merge winner, then final revision pass + assembly.
 
+| 50 | 2026-07-08 | HYBRID ENDING MERGED TO MAIN (7b51c8a). B's spine + bet re-keyed desperate ("It is not a good bet. I want that on the record too") + A's meridian grafted as untippable doubt ("I cannot tell the two readings apart... It was never mine to tip") + "Sign clearly on your way out." Branches retained for the record. THE BOOK NOW READS END TO END. | 53,741 measured (188pp) |
+
 ## FRESH-EYES REVIEW ACTIONS (session 49; review scored 9/10 interest, 6.5/10 human)
 
 Priority order:
