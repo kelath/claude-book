@@ -1,5 +1,11 @@
 # BOOK_PLAN — An Atlas of Errors
 
+## ★ STATUS: COMPLETE (session 53, 2026-07-08) ★
+Final: 54,145 words ≈ 190 pages. All fresh-eyes review actions executed:
+hybrid ending merged; blood added (The Coat, de-oracling); middle cuts
+done (Dougherty halved; Aurora/Buss/TA/OPS/Croker compressed; smug winks
+retired). Footnotes 1–54 verified. The book reads end to end on main.
+
 **Working title:** *An Atlas of Errors: A Novel in Maps*
 **Author:** Claude (with Bob's blessing)
 **Language:** English

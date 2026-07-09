@@ -48,20 +48,15 @@ credit line to be drawn on — Voss calls it, in the notebook, "the
 empires borrowed.
 
 No borrower was stranger than Pedro Fernández de Quirós, the
-Portuguese pilot in Spanish service who in 1606, having crossed the
-Pacific on faith and dead reckoning, put into a bay in the New
-Hebrides and declared the continent found. He named it — the
-spelling is his own ecstatic diplomacy, splicing the land to the
-House of Austria — *Austrialia del Espíritu Santo*; he founded, on
-a beach, with ceremonies of tears, a city he called New Jerusalem
-and a knightly order of the Holy Ghost; he appointed magistrates
-for provinces that were water. It was an island, of course —
-Espiritu Santo, in Vanuatu; the "continent" fell apart into
-archipelago within weeks, the colony within months. Quirós spent
-the rest of his life writing memorials to the crown — fifty at
-least — begging ships to go back to the promise. The crown, which
-had audited promises before, gave him letters and no ships, and he
-died at Panama, en route to nothing, still owed.
+Portuguese pilot in Spanish service who in 1606 put into a bay in
+the New Hebrides and declared the continent found: *Austrialia del
+Espíritu Santo*. He founded, on a beach, with ceremonies of tears,
+a city he called New Jerusalem, and appointed magistrates for
+provinces that were water. It was an island, of course; the
+"continent" fell apart into archipelago within weeks, the colony
+within months; and Quirós spent the rest of his life writing
+memorials to the crown — fifty at least — begging ships to go back
+to the promise. He died at Panama, en route to nothing, still owed.
 
     IV: Keep Quirós in view; he is the Part's first casualty of the
     appointment. The continent had been deduced for two thousand

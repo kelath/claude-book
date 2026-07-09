@@ -28,14 +28,12 @@ file.
     consistency. A chart is a conspiracy of witnesses who have never
     met.
 
-The island took root. Seventeenth-century charts gave it shape and
-extent; in 1671 a Captain Thomas Shepard claimed not only to have found
-Buss but to have sailed around it, and produced a map — harbours named,
-capes christened, an anchorage recommended — precise enough that the
-Hudson's Bay Company briefly considered how the island might serve its
-trade. Shepard's map is the high-water mark of Buss: a complete
-cartographic biography of nothing, drawn from nothing, adopted by the
-most hard-headed commercial enterprise of its age.
+The island took root. In 1671 a Captain Thomas Shepard claimed not only
+to have found Buss but to have sailed around it, and produced a map —
+harbours named, capes christened, an anchorage recommended — precise
+enough that the Hudson's Bay Company briefly considered how the island
+might serve its trade: a complete cartographic biography of nothing,
+adopted by the most hard-headed commercial enterprise of its age.
 
     IV: Note the sequence, because it is the standard sequence run in
     reverse. Usually a place is seen vaguely and mapped vaguely and the
@@ -48,15 +46,12 @@ finding water — and with them the remarkable adjustment. The island was
 not struck. Instead, the eighteenth-century charts began to explain: the
 land had *sunk*. Van Keulen's Dutch atlas of 1745 states it as plain
 fact: "the submerged land of Buss, nowadays nothing but surf and
-shoaling water." Mariners reported discoloured sea, breakers, a shoal
-with bottom at a few dozen fathoms — the corpse of the island, decently
-interred just below the surface, still capable of wrecking you. The
-Sunken Land of Buss remained a charted hazard into the nineteenth
-century. In 1818 John Ross, outbound for Baffin Bay, paused over the
-position and put down a sounding line: one hundred and eighty fathoms,
-no bottom. He tried again further on. Deep water everywhere. The sunken
-land was not sunken; it was absent, which the charts had never been
-willing to say.
+shoaling water" — the corpse of the island, decently interred just below
+the surface, still capable of wrecking you. It remained a charted hazard
+until 1818, when John Ross, outbound for Baffin Bay, put down a sounding
+line over the position: one hundred and eighty fathoms, no bottom. Deep
+water everywhere. The sunken land was not sunken; it was absent, which
+the charts had never been willing to say.
 
     IV: Here the record shows its hand. Confronted with an empty
     position, the chart did not amend itself; it amended the *world* —

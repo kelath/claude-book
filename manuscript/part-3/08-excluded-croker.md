@@ -88,16 +88,13 @@ was dry. Croker, the Secretary, kept his name on a bay in
 Devon Island — a demotion from a mountain range to an indentation,
 which the wits of the wardrooms did not fail to price.
 
-Ross was never given an Admiralty command again. He begged for
-one for a decade, was refused with civility, and finally went
-north in 1829 in a paddle steamer paid for by a gin distiller,
-where he spent four winters frozen in, lost the ship, saved his
-men, and came home a public hero and a professional ghost — the
-Admiralty gave the survivors medals and gave Ross a knighthood
-and no ship, ever. The mirage had cost the Passage a year;
-years, the accountants of exploration agree, were cheap. What it
-had cost Ross was the whole of the rest of his career, and he
-paid it out in annual instalments of hope for thirty years.
+Ross was never given an Admiralty command again. He went north at
+last in 1829 in a paddle steamer paid for by a gin distiller, spent
+four winters frozen in, lost the ship, saved his men, and came home
+a public hero and a professional ghost: a knighthood, and no ship,
+ever. The mirage had cost the Passage a year, and years were cheap.
+What it cost Ross was the rest of his career, paid out in annual
+instalments of hope for thirty years.
 
     And here is why this entry, finished and fair-copied, is not
     in my index. Follow the money as this Atlas has taught. Every

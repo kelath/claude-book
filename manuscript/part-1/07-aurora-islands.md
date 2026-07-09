@@ -8,24 +8,19 @@ they were not.
 The ship *Aurora*, a Spanish merchantman on the Lima run, reported them
 first in 1762: two islands where no islands should be, in the grey
 latitudes east of the Falklands. The *Aurora* saw them again on a later
-voyage. The *San Miguel* saw them in 1769. The *Pearl* saw them; the
-*Dolores*; the *Princesa* in 1790, whose officers took bearings and
-estimated the latitude within a few minutes of the modern figure for the
-position. By then the islands were three: two large, one smaller, snowy,
-steep-sided, unmistakably land, seen across three decades by crews with no
+voyage; the *San Miguel* in 1769; the *Pearl*, the *Dolores*, the
+*Princesa* in 1790 — three islands by then, snowy, steep-sided,
+unmistakably land, seen across three decades by crews with no
 acquaintance and nothing to gain.
 
 And then — this is what makes the Auroras the crown of the multiple-witness
-problem — they were *surveyed*. In 1794 the corvette *Atrevida*, one of the
-two ships of the Malaspina expedition, the most scrupulously instrumented
-scientific voyage Spain ever mounted, was detached specifically to fix the
-Auroras. She found them. She spent days among them. Her officers observed
-"a great mountain in the form of a pavilion, divided vertically into two
-bands, snow-covered and dark," took repeated altitudes, fixed all three
-islands by chronometer — the good chronometers, the ones the expedition
-existed to showcase — and published latitudes and longitudes to the minute
-in the hydrographic memoirs of the Royal Navy of Spain. This is not a
-whaler's rumor. This is the state of the art of eighteenth-century
+problem — they were *surveyed*. In 1794 the corvette *Atrevida*, of the
+Malaspina expedition, the most scrupulously instrumented scientific voyage
+Spain ever mounted, was detached specifically to fix the Auroras. She found
+them. Her officers observed "a great mountain in the form of a pavilion,
+divided vertically into two bands, snow-covered and dark," fixed all three
+islands by chronometer, and published the positions to the minute. This is
+not a whaler's rumor. This is the state of the art of eighteenth-century
 position-fixing, applied deliberately, on station, in fair weather, to
 something its officers could see.
 
@@ -34,18 +29,15 @@ something its officers could see.
     hundred honest men and a chronometer make nothing. The record does
     not grade witnesses. It only counts copies.
 
-The islands entered every chart of the southern ocean. They sat directly
-on the route around the Horn, and shipmasters logged them, steered by
-them, occasionally failed to find them and logged that too, without
-alarm — the southern ocean hides things weekly. It took the nineteenth
-century's professional doubters to make absence into a finding. James
-Weddell, the sealer-navigator, went looking in 1820: four days of clear
-weather, a deliberate search pattern across the published positions,
-nothing. He wrote, with the carefulness of a man contradicting the Spanish
-navy, that he was "certain that no such islands exist in the situation
-assigned." Benjamin Morrell searched in 1822 and also found nothing,
-which, given Morrell's reputation as the greatest liar in the southern
-ocean, Voss files as weak confirmation at best:
+The islands entered every chart of the southern ocean, directly on the
+route around the Horn. It took the nineteenth century's professional
+doubters to make absence into a finding: James Weddell, the sealer-
+navigator, searched in 1820 — four days of clear weather across the
+published positions — and wrote, with the carefulness of a man
+contradicting the Spanish navy, that he was "certain that no such islands
+exist in the situation assigned." Benjamin Morrell searched in 1822 and
+also found nothing, which, given his reputation as the greatest liar in
+the southern ocean, Voss files as weak confirmation at best:
 
     IV: Morrell reporting an absence is the only class of Morrell report
     one can trust. A man who invents islands has no motive to invent

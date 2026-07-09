@@ -22,10 +22,12 @@ Australis…); the rest you will have to sound for yourself.
 ./make-book.sh          # compiles manuscript/ into build/an-atlas-of-errors.md
 ```
 
-Or read `manuscript/` in lexicographic file order. Current length:
-~185 pages. **Status: final revision** — two candidate endings live on
-`explore/ending-deposit` and `explore/ending-decline` pending a final
-editorial decision.
+Or read `manuscript/` in lexicographic file order.
+
+**Status: COMPLETE.** ~54,000 words (~190 pages): a preface, 32 entries
+in four parts, three excluded entries, six interleaved notes, an
+afterword, and five appendices. The two endings that lost to the final
+hybrid remain on `explore/ending-deposit` and `explore/ending-decline`.
 
 `BOOK_PLAN.md` is the writing-room wall: outline, continuity canon,
 session log. `art/` holds the cover and the two runner-up concepts.

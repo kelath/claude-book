@@ -72,23 +72,17 @@ re-examination, into the ordinary pack.
     headland saying them. He was not. He was a name in a book. The
     book had learned to talk.
 
-The invoice fell to George Washington De Long. Petermann had lobbied
-for the Bering approach specifically — the warm Kuro Siwo,
-breaching the strait, opening a lane north to the temperate basin —
-and De Long, commanding the *Jeannette* on Bering-route funding
-raised substantially on Petermann's authority, sailed from San
-Francisco in July 1879 to find it. He found, instead, pack ice north
-of Wrangel Island, into which the ship froze fast within weeks; the
-*Jeannette* drifted, locked, for very nearly two years, carried by
-currents no chart had shown and no gateway ever opened around, until
-the ice crushed her hull in June 1881 and she went down north of the
-New Siberian Islands. De Long and thirteen of his men died in the
-retreat across the ice and down the Lena Delta that followed;
-relics of the wreck, found years later on the coast of Greenland,
-gave the first hard evidence of the transpolar drift that Fridtjof
-Nansen would use, and confirm, a decade on. It is the deadliest
-single bill the theory presented, and it was drawn on a German
-armchair and cashed in Siberia.
+The invoice fell to George Washington De Long, who sailed the
+*Jeannette* from San Francisco in July 1879, on funding raised
+substantially on Petermann's authority, to find the warm Bering
+gateway. He found pack ice north of Wrangel Island, into which the
+ship froze fast within weeks and drifted, locked, for nearly two
+years, until the ice crushed her in June 1881. De Long and thirteen
+of his men died in the retreat down the Lena Delta; relics of the
+wreck, surfacing years later on the coast of Greenland, gave Nansen
+the transpolar drift he would stake the *Fram* on. It is the
+deadliest single bill the theory presented, and it was drawn on a
+German armchair and cashed in Siberia.
 
     IV: Petermann did not sail. This is not incidental; it is the
     mechanism. The men who draw the gateway are rarely the men who
