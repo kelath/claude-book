@@ -114,14 +114,11 @@ Open Polar Sea came off the charts in the decade after, the last
 respectable printing of it dated to the 1880s and lingering, as
 a courtesy, into a few atlases of the 1890s that hadn't yet heard.
 
-    IV: Every polar entry in this Part will be measured against the
-    same sounding line, and I give it here because it recurs: the
-    *Fram*'s deepest casts, and the modern basin surveys that
-    confirmed them, sit near enough twelve hundred and forty metres
-    down at the shelf break where the theory's warm gateway was
-    supposed to open. The theory promised a surface. The world kept,
-    instead, a floor, and set it at a depth I have had occasion to
-    write down before this Part and will again.
+    IV: One figure from the *Fram*'s legacy, for the file: at the
+    shelf break where the theory's warm gateway was supposed to
+    open, the basin surveys find the floor near enough twelve
+    hundred and forty metres down. The theory promised a surface.
+    The world kept, instead, a floor.
 
 Here Voss's essay, in every draft before the last, ends — the
 standard close of this Atlas, ice claiming the promise as thoroughly

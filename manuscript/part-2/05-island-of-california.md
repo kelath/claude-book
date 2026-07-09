@@ -133,5 +133,4 @@ distinct plates. All shelfmarks in this entry check. I note it
 because I have noticed, reviewing my own apparatus, that I now
 report verification the way a nervous man reports his pulse.
 
-[^32]: 680 fathoms is 1,244 metres. I have nothing to add that the
-reader has not already done in the margin.
+[^32]: 680 fathoms is 1,244 metres.
